@@ -1,0 +1,8002 @@
+[
+  {
+    "CustomerID": 77825,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 65,
+    "MonthlySalary": 7885.22061428817,
+    "CreditScore": 500
+  },
+  {
+    "CustomerID": 36280,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 35,
+    "MonthlySalary": 8521.831739516181,
+    "CreditScore": 686
+  },
+  {
+    "CustomerID": 48929,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 23,
+    "MonthlySalary": 5379.312196300327,
+    "CreditScore": 539
+  },
+  {
+    "CustomerID": 72717,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 36,
+    "MonthlySalary": 8702.999706825758,
+    "CreditScore": 682
+  },
+  {
+    "CustomerID": 84797,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 32,
+    "MonthlySalary": 5939.344354430564,
+    "CreditScore": 578
+  },
+  {
+    "CustomerID": 64009,
+    "Gender": "M",
+    "City": "London",
+    "Age": 46,
+    "MonthlySalary": 10143.964404414146,
+    "CreditScore": 733
+  },
+  {
+    "CustomerID": 31851,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 69,
+    "MonthlySalary": 4085.311127947867,
+    "CreditScore": 626
+  },
+  {
+    "CustomerID": 48943,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 28,
+    "MonthlySalary": 11414.425626378965,
+    "CreditScore": 601
+  },
+  {
+    "CustomerID": 40914,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 70,
+    "MonthlySalary": 3398.376431657292,
+    "CreditScore": 643
+  },
+  {
+    "CustomerID": 56500,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 42,
+    "MonthlySalary": 6367.0297907780405,
+    "CreditScore": 576
+  },
+  {
+    "CustomerID": 71985,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 66,
+    "MonthlySalary": 8648.224316489253,
+    "CreditScore": 771
+  },
+  {
+    "CustomerID": 60825,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 35,
+    "MonthlySalary": 6313.282817783192,
+    "CreditScore": 673
+  },
+  {
+    "CustomerID": 36239,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 64,
+    "MonthlySalary": 12223.514656662175,
+    "CreditScore": 664
+  },
+  {
+    "CustomerID": 79930,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 56,
+    "MonthlySalary": 8013.769356298596,
+    "CreditScore": 848
+  },
+  {
+    "CustomerID": 66202,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 31,
+    "MonthlySalary": 5802.429095853738,
+    "CreditScore": 532
+  },
+  {
+    "CustomerID": 17897,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 26,
+    "MonthlySalary": 7934.758494691786,
+    "CreditScore": 559
+  },
+  {
+    "CustomerID": 62999,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 38,
+    "MonthlySalary": 6327.366205244833,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 92669,
+    "Gender": "F",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 13761.9897458324,
+    "CreditScore": 743
+  },
+  {
+    "CustomerID": 51166,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 31,
+    "MonthlySalary": 3731.402836942069,
+    "CreditScore": 812
+  },
+  {
+    "CustomerID": 49319,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 30,
+    "MonthlySalary": 3089.630285761446,
+    "CreditScore": 674
+  },
+  {
+    "CustomerID": 29767,
+    "Gender": "M",
+    "City": "London",
+    "Age": 52,
+    "MonthlySalary": 5666.967095847076,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 90404,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 25,
+    "MonthlySalary": 9762.12859811143,
+    "CreditScore": 542
+  },
+  {
+    "CustomerID": 39585,
+    "Gender": "O",
+    "City": "London",
+    "Age": 60,
+    "MonthlySalary": 7571.154909292619,
+    "CreditScore": 693
+  },
+  {
+    "CustomerID": 31066,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 41,
+    "MonthlySalary": 4544.164095668632,
+    "CreditScore": 579
+  },
+  {
+    "CustomerID": 56650,
+    "Gender": "M",
+    "City": "London",
+    "Age": 49,
+    "MonthlySalary": 12911.76888888669,
+    "CreditScore": 597
+  },
+  {
+    "CustomerID": 83811,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 70,
+    "MonthlySalary": 8321.534774569423,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 86798,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 50,
+    "MonthlySalary": 5987.338600010595,
+    "CreditScore": 589
+  },
+  {
+    "CustomerID": 97539,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 29,
+    "MonthlySalary": 9494.609972494043,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 31669,
+    "Gender": "F",
+    "City": "London",
+    "Age": 53,
+    "MonthlySalary": 14029.301080234593,
+    "CreditScore": 514
+  },
+  {
+    "CustomerID": 49898,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 52,
+    "MonthlySalary": 6057.569303283277,
+    "CreditScore": 710
+  },
+  {
+    "CustomerID": 21504,
+    "Gender": "M",
+    "City": "London",
+    "Age": 39,
+    "MonthlySalary": 14604.069748037326,
+    "CreditScore": 727
+  },
+  {
+    "CustomerID": 65054,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 31,
+    "MonthlySalary": 13189.105034458837,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 90484,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 28,
+    "MonthlySalary": 6963.776834992132,
+    "CreditScore": 678
+  },
+  {
+    "CustomerID": 82659,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 73,
+    "MonthlySalary": 3497.2659470227386,
+    "CreditScore": 731
+  },
+  {
+    "CustomerID": 75030,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 29,
+    "MonthlySalary": 9343.87230580774,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 11996,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 73,
+    "MonthlySalary": 8743.862003044766,
+    "CreditScore": 511
+  },
+  {
+    "CustomerID": 37189,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 74,
+    "MonthlySalary": 4260.610645729536,
+    "CreditScore": 844
+  },
+  {
+    "CustomerID": 71411,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 34,
+    "MonthlySalary": 8362.071964790146,
+    "CreditScore": 536
+  },
+  {
+    "CustomerID": 29877,
+    "Gender": "F",
+    "City": "London",
+    "Age": 23,
+    "MonthlySalary": 5907.913332610833,
+    "CreditScore": 679
+  },
+  {
+    "CustomerID": 98635,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 23,
+    "MonthlySalary": 5550.933480005471,
+    "CreditScore": 802
+  },
+  {
+    "CustomerID": 32830,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 39,
+    "MonthlySalary": 4867.699080799825,
+    "CreditScore": 549
+  },
+  {
+    "CustomerID": 12239,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 51,
+    "MonthlySalary": 12048.896424195296,
+    "CreditScore": 732
+  },
+  {
+    "CustomerID": 88790,
+    "Gender": "F",
+    "City": "London",
+    "Age": 38,
+    "MonthlySalary": 3129.614093187276,
+    "CreditScore": 602
+  },
+  {
+    "CustomerID": 64068,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 48,
+    "MonthlySalary": 9374.11756233532,
+    "CreditScore": 642
+  },
+  {
+    "CustomerID": 82488,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 60,
+    "MonthlySalary": 3419.977749433827,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 62021,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 60,
+    "MonthlySalary": 9611.393373000345,
+    "CreditScore": 817
+  },
+  {
+    "CustomerID": 74472,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 25,
+    "MonthlySalary": 10573.38566963417,
+    "CreditScore": 599
+  },
+  {
+    "CustomerID": 31403,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 34,
+    "MonthlySalary": 11546.695653553012,
+    "CreditScore": 742
+  },
+  {
+    "CustomerID": 31850,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 63,
+    "MonthlySalary": 12802.319279419238,
+    "CreditScore": 621
+  },
+  {
+    "CustomerID": 33976,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 56,
+    "MonthlySalary": 3309.626146457252,
+    "CreditScore": 582
+  },
+  {
+    "CustomerID": 37124,
+    "Gender": "M",
+    "City": "London",
+    "Age": 29,
+    "MonthlySalary": 8788.019546924426,
+    "CreditScore": 631
+  },
+  {
+    "CustomerID": 40416,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 20,
+    "MonthlySalary": 12452.32730218274,
+    "CreditScore": 578
+  },
+  {
+    "CustomerID": 21139,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 64,
+    "MonthlySalary": 5650.272543582794,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 19031,
+    "Gender": "O",
+    "City": "London",
+    "Age": 39,
+    "MonthlySalary": 8653.669051799889,
+    "CreditScore": 530
+  },
+  {
+    "CustomerID": 75201,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 66,
+    "MonthlySalary": 10946.576665438048,
+    "CreditScore": 608
+  },
+  {
+    "CustomerID": 47940,
+    "Gender": "O",
+    "City": "London",
+    "Age": 68,
+    "MonthlySalary": 12214.661615439083,
+    "CreditScore": 557
+  },
+  {
+    "CustomerID": 10024,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 40,
+    "MonthlySalary": 14348.556010873725,
+    "CreditScore": 850
+  },
+  {
+    "CustomerID": 88541,
+    "Gender": "O",
+    "City": "London",
+    "Age": 55,
+    "MonthlySalary": 3519.270120157052,
+    "CreditScore": 836
+  },
+  {
+    "CustomerID": 62763,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 71,
+    "MonthlySalary": 8874.271416657535,
+    "CreditScore": 645
+  },
+  {
+    "CustomerID": 70163,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 56,
+    "MonthlySalary": 4280.382691961826,
+    "CreditScore": 797
+  },
+  {
+    "CustomerID": 63343,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 7537.975566650834,
+    "CreditScore": 826
+  },
+  {
+    "CustomerID": 22537,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 55,
+    "MonthlySalary": 12172.838204330255,
+    "CreditScore": 775
+  },
+  {
+    "CustomerID": 75620,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 61,
+    "MonthlySalary": 5092.242242417268,
+    "CreditScore": 713
+  },
+  {
+    "CustomerID": 60537,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 35,
+    "MonthlySalary": 11788.302684516664,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 79581,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 43,
+    "MonthlySalary": 9503.14549973802,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 45117,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 56,
+    "MonthlySalary": 8225.27765300722,
+    "CreditScore": 581
+  },
+  {
+    "CustomerID": 25535,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 64,
+    "MonthlySalary": 6198.225949433512,
+    "CreditScore": 725
+  },
+  {
+    "CustomerID": 18494,
+    "Gender": "F",
+    "City": "London",
+    "Age": 32,
+    "MonthlySalary": 13132.78039255843,
+    "CreditScore": 513
+  },
+  {
+    "CustomerID": 85456,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 49,
+    "MonthlySalary": 14800.754458948752,
+    "CreditScore": 828
+  },
+  {
+    "CustomerID": 94677,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 43,
+    "MonthlySalary": 8975.840341649882,
+    "CreditScore": 653
+  },
+  {
+    "CustomerID": 66769,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 68,
+    "MonthlySalary": 9232.925769074162,
+    "CreditScore": 579
+  },
+  {
+    "CustomerID": 67200,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 71,
+    "MonthlySalary": 9632.299466050476,
+    "CreditScore": 642
+  },
+  {
+    "CustomerID": 41321,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 63,
+    "MonthlySalary": 13718.091598827348,
+    "CreditScore": 822
+  },
+  {
+    "CustomerID": 96273,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 24,
+    "MonthlySalary": 5281.016247848878,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 10227,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 8416.962426770613,
+    "CreditScore": 623
+  },
+  {
+    "CustomerID": 28860,
+    "Gender": "O",
+    "City": "London",
+    "Age": 56,
+    "MonthlySalary": 11533.774002933247,
+    "CreditScore": 543
+  },
+  {
+    "CustomerID": 23988,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 26,
+    "MonthlySalary": 14069.331470321751,
+    "CreditScore": 604
+  },
+  {
+    "CustomerID": 97245,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 34,
+    "MonthlySalary": 4452.895626591298,
+    "CreditScore": 796
+  },
+  {
+    "CustomerID": 19219,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 70,
+    "MonthlySalary": 13806.643356760682,
+    "CreditScore": 523
+  },
+  {
+    "CustomerID": 94467,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 37,
+    "MonthlySalary": 8668.676848090523,
+    "CreditScore": 703
+  },
+  {
+    "CustomerID": 53165,
+    "Gender": "F",
+    "City": "London",
+    "Age": 56,
+    "MonthlySalary": 6359.378330820717,
+    "CreditScore": 801
+  },
+  {
+    "CustomerID": 80057,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 50,
+    "MonthlySalary": 14010.476260636622,
+    "CreditScore": 510
+  },
+  {
+    "CustomerID": 88455,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 37,
+    "MonthlySalary": 3290.599983102959,
+    "CreditScore": 742
+  },
+  {
+    "CustomerID": 86211,
+    "Gender": "F",
+    "City": "London",
+    "Age": 38,
+    "MonthlySalary": 6252.595708993989,
+    "CreditScore": 702
+  },
+  {
+    "CustomerID": 15790,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 27,
+    "MonthlySalary": 5797.056545863382,
+    "CreditScore": 748
+  },
+  {
+    "CustomerID": 87407,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 8700.774607906033,
+    "CreditScore": 763
+  },
+  {
+    "CustomerID": 62942,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 28,
+    "MonthlySalary": 14353.341137427968,
+    "CreditScore": 543
+  },
+  {
+    "CustomerID": 89196,
+    "Gender": "F",
+    "City": "London",
+    "Age": 68,
+    "MonthlySalary": 4919.874902997817,
+    "CreditScore": 717
+  },
+  {
+    "CustomerID": 87010,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 25,
+    "MonthlySalary": 10468.802731279353,
+    "CreditScore": 592
+  },
+  {
+    "CustomerID": 64945,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 12015.259692072455,
+    "CreditScore": 643
+  },
+  {
+    "CustomerID": 25503,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 59,
+    "MonthlySalary": 5231.373139021336,
+    "CreditScore": 574
+  },
+  {
+    "CustomerID": 35908,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 46,
+    "MonthlySalary": 11431.084624964133,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 83726,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 23,
+    "MonthlySalary": 14779.166408802132,
+    "CreditScore": 715
+  },
+  {
+    "CustomerID": 28322,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 7931.977440930809,
+    "CreditScore": 601
+  },
+  {
+    "CustomerID": 95598,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 44,
+    "MonthlySalary": 5571.991253683517,
+    "CreditScore": 531
+  },
+  {
+    "CustomerID": 75989,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 58,
+    "MonthlySalary": 11247.211462948935,
+    "CreditScore": 703
+  },
+  {
+    "CustomerID": 29861,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 28,
+    "MonthlySalary": 11261.521623115954,
+    "CreditScore": 659
+  },
+  {
+    "CustomerID": 69920,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 51,
+    "MonthlySalary": 6075.872938094148,
+    "CreditScore": 825
+  },
+  {
+    "CustomerID": 70498,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 14388.586724874594,
+    "CreditScore": 643
+  },
+  {
+    "CustomerID": 88488,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 27,
+    "MonthlySalary": 10284.5424726476,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 76942,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 36,
+    "MonthlySalary": 6596.444961151674,
+    "CreditScore": 690
+  },
+  {
+    "CustomerID": 62029,
+    "Gender": "F",
+    "City": "London",
+    "Age": 54,
+    "MonthlySalary": 12530.293038019749,
+    "CreditScore": 558
+  },
+  {
+    "CustomerID": 19644,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 37,
+    "MonthlySalary": 9185.59862618034,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 66633,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 57,
+    "MonthlySalary": 12916.541108140693,
+    "CreditScore": 718
+  },
+  {
+    "CustomerID": 17036,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 7347.445752947182,
+    "CreditScore": 700
+  },
+  {
+    "CustomerID": 33941,
+    "Gender": "O",
+    "City": "London",
+    "Age": 36,
+    "MonthlySalary": 5827.977103559224,
+    "CreditScore": 803
+  },
+  {
+    "CustomerID": 19775,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 36,
+    "MonthlySalary": 4527.637785221516,
+    "CreditScore": 596
+  },
+  {
+    "CustomerID": 61137,
+    "Gender": "M",
+    "City": "London",
+    "Age": 51,
+    "MonthlySalary": 4105.9296983108925,
+    "CreditScore": 712
+  },
+  {
+    "CustomerID": 87569,
+    "Gender": "M",
+    "City": "London",
+    "Age": 22,
+    "MonthlySalary": 7004.185265315522,
+    "CreditScore": 787
+  },
+  {
+    "CustomerID": 64139,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 10838.53673061485,
+    "CreditScore": 605
+  },
+  {
+    "CustomerID": 66846,
+    "Gender": "F",
+    "City": "London",
+    "Age": 29,
+    "MonthlySalary": 6218.128968427558,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 65733,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 43,
+    "MonthlySalary": 11805.807396538168,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 14371,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 41,
+    "MonthlySalary": 13990.096997021115,
+    "CreditScore": 686
+  },
+  {
+    "CustomerID": 53234,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 36,
+    "MonthlySalary": 9798.667239241737,
+    "CreditScore": 836
+  },
+  {
+    "CustomerID": 17227,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 56,
+    "MonthlySalary": 11122.239525623976,
+    "CreditScore": 801
+  },
+  {
+    "CustomerID": 79450,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 10106.300412297252,
+    "CreditScore": 803
+  },
+  {
+    "CustomerID": 76210,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 45,
+    "MonthlySalary": 9419.453234691216,
+    "CreditScore": 610
+  },
+  {
+    "CustomerID": 17596,
+    "Gender": "O",
+    "City": "London",
+    "Age": 55,
+    "MonthlySalary": 12749.765179209386,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 98400,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 21,
+    "MonthlySalary": 5305.972185545489,
+    "CreditScore": 693
+  },
+  {
+    "CustomerID": 16888,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 63,
+    "MonthlySalary": 6302.39292802348,
+    "CreditScore": 625
+  },
+  {
+    "CustomerID": 86441,
+    "Gender": "M",
+    "City": "London",
+    "Age": 45,
+    "MonthlySalary": 7517.244139012723,
+    "CreditScore": 535
+  },
+  {
+    "CustomerID": 36204,
+    "Gender": "F",
+    "City": "London",
+    "Age": 44,
+    "MonthlySalary": 3812.910505140758,
+    "CreditScore": 764
+  },
+  {
+    "CustomerID": 54582,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 64,
+    "MonthlySalary": 5963.057729236716,
+    "CreditScore": 725
+  },
+  {
+    "CustomerID": 46359,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 60,
+    "MonthlySalary": 12068.543841472314,
+    "CreditScore": 605
+  },
+  {
+    "CustomerID": 85891,
+    "Gender": "F",
+    "City": "London",
+    "Age": 35,
+    "MonthlySalary": 14339.173262569238,
+    "CreditScore": 563
+  },
+  {
+    "CustomerID": 18606,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 30,
+    "MonthlySalary": 5139.448689268676,
+    "CreditScore": 624
+  },
+  {
+    "CustomerID": 70356,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 37,
+    "MonthlySalary": 6685.806096168147,
+    "CreditScore": 597
+  },
+  {
+    "CustomerID": 67446,
+    "Gender": "O",
+    "City": "London",
+    "Age": 31,
+    "MonthlySalary": 11386.394665862474,
+    "CreditScore": 638
+  },
+  {
+    "CustomerID": 26568,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 60,
+    "MonthlySalary": 7739.658300755584,
+    "CreditScore": 642
+  },
+  {
+    "CustomerID": 88043,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 72,
+    "MonthlySalary": 14246.538253879302,
+    "CreditScore": 756
+  },
+  {
+    "CustomerID": 70419,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 10749.559692067663,
+    "CreditScore": 623
+  },
+  {
+    "CustomerID": 30212,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 44,
+    "MonthlySalary": 14792.94934789137,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 93618,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 60,
+    "MonthlySalary": 4390.025876557689,
+    "CreditScore": 803
+  },
+  {
+    "CustomerID": 20031,
+    "Gender": "F",
+    "City": "London",
+    "Age": 22,
+    "MonthlySalary": 11607.629439450326,
+    "CreditScore": 705
+  },
+  {
+    "CustomerID": 40449,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 53,
+    "MonthlySalary": 10711.463027823946,
+    "CreditScore": 527
+  },
+  {
+    "CustomerID": 44201,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 46,
+    "MonthlySalary": 10165.2353312396,
+    "CreditScore": 750
+  },
+  {
+    "CustomerID": 63011,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 43,
+    "MonthlySalary": 12675.533427681015,
+    "CreditScore": 761
+  },
+  {
+    "CustomerID": 37947,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 13375.108568605334,
+    "CreditScore": 572
+  },
+  {
+    "CustomerID": 85122,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 70,
+    "MonthlySalary": 7997.028056669364,
+    "CreditScore": 792
+  },
+  {
+    "CustomerID": 15043,
+    "Gender": "O",
+    "City": "London",
+    "Age": 21,
+    "MonthlySalary": 10793.718740773762,
+    "CreditScore": 673
+  },
+  {
+    "CustomerID": 89666,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 22,
+    "MonthlySalary": 9387.0949521575,
+    "CreditScore": 656
+  },
+  {
+    "CustomerID": 96733,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 52,
+    "MonthlySalary": 5174.862820020289,
+    "CreditScore": 549
+  },
+  {
+    "CustomerID": 90538,
+    "Gender": "M",
+    "City": "London",
+    "Age": 20,
+    "MonthlySalary": 6279.464101603156,
+    "CreditScore": 717
+  },
+  {
+    "CustomerID": 47515,
+    "Gender": "O",
+    "City": "London",
+    "Age": 53,
+    "MonthlySalary": 4768.142821344484,
+    "CreditScore": 798
+  },
+  {
+    "CustomerID": 65715,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 38,
+    "MonthlySalary": 12071.712771611374,
+    "CreditScore": 696
+  },
+  {
+    "CustomerID": 65377,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 25,
+    "MonthlySalary": 6801.087972036419,
+    "CreditScore": 586
+  },
+  {
+    "CustomerID": 60168,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 63,
+    "MonthlySalary": 10035.112036293138,
+    "CreditScore": 536
+  },
+  {
+    "CustomerID": 25072,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 33,
+    "MonthlySalary": 5977.1583486058735,
+    "CreditScore": 559
+  },
+  {
+    "CustomerID": 33787,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 35,
+    "MonthlySalary": 5730.691899357274,
+    "CreditScore": 621
+  },
+  {
+    "CustomerID": 23733,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 6315.139901574206,
+    "CreditScore": 707
+  },
+  {
+    "CustomerID": 10357,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 60,
+    "MonthlySalary": 4805.863606559932,
+    "CreditScore": 541
+  },
+  {
+    "CustomerID": 59469,
+    "Gender": "F",
+    "City": "London",
+    "Age": 25,
+    "MonthlySalary": 8657.724894444142,
+    "CreditScore": 805
+  },
+  {
+    "CustomerID": 47641,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 30,
+    "MonthlySalary": 5140.77986982726,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 51321,
+    "Gender": "O",
+    "City": "London",
+    "Age": 44,
+    "MonthlySalary": 14853.859413346649,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 75224,
+    "Gender": "M",
+    "City": "London",
+    "Age": 35,
+    "MonthlySalary": 13844.9616071133,
+    "CreditScore": 588
+  },
+  {
+    "CustomerID": 71232,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 6765.896173800958,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 78536,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 52,
+    "MonthlySalary": 6993.114238094695,
+    "CreditScore": 516
+  },
+  {
+    "CustomerID": 43034,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 59,
+    "MonthlySalary": 3649.442103746672,
+    "CreditScore": 766
+  },
+  {
+    "CustomerID": 92275,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 29,
+    "MonthlySalary": 7153.817351615553,
+    "CreditScore": 703
+  },
+  {
+    "CustomerID": 66282,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 23,
+    "MonthlySalary": 5409.486922763626,
+    "CreditScore": 653
+  },
+  {
+    "CustomerID": 45341,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 25,
+    "MonthlySalary": 6279.49079313195,
+    "CreditScore": 576
+  },
+  {
+    "CustomerID": 10955,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 13120.635687082262,
+    "CreditScore": 602
+  },
+  {
+    "CustomerID": 46638,
+    "Gender": "M",
+    "City": "London",
+    "Age": 52,
+    "MonthlySalary": 14281.466117736534,
+    "CreditScore": 750
+  },
+  {
+    "CustomerID": 95497,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 66,
+    "MonthlySalary": 4024.664385043196,
+    "CreditScore": 514
+  },
+  {
+    "CustomerID": 83421,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 73,
+    "MonthlySalary": 10932.141888034712,
+    "CreditScore": 506
+  },
+  {
+    "CustomerID": 91140,
+    "Gender": "M",
+    "City": "London",
+    "Age": 31,
+    "MonthlySalary": 11606.189625611338,
+    "CreditScore": 647
+  },
+  {
+    "CustomerID": 34556,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 13822.76837616716,
+    "CreditScore": 554
+  },
+  {
+    "CustomerID": 67738,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 62,
+    "MonthlySalary": 14257.99946698143,
+    "CreditScore": 573
+  },
+  {
+    "CustomerID": 25957,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 72,
+    "MonthlySalary": 8496.633985206836,
+    "CreditScore": 525
+  },
+  {
+    "CustomerID": 20734,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 60,
+    "MonthlySalary": 5281.83483021276,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 39770,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 45,
+    "MonthlySalary": 10190.07773383199,
+    "CreditScore": 739
+  },
+  {
+    "CustomerID": 11247,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 7529.884208584237,
+    "CreditScore": 638
+  },
+  {
+    "CustomerID": 55510,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 66,
+    "MonthlySalary": 6561.404644007103,
+    "CreditScore": 763
+  },
+  {
+    "CustomerID": 86754,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 37,
+    "MonthlySalary": 14877.9209930799,
+    "CreditScore": 740
+  },
+  {
+    "CustomerID": 92192,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 73,
+    "MonthlySalary": 8554.502368476378,
+    "CreditScore": 732
+  },
+  {
+    "CustomerID": 81643,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 47,
+    "MonthlySalary": 9071.923053487128,
+    "CreditScore": 516
+  },
+  {
+    "CustomerID": 44241,
+    "Gender": "O",
+    "City": "London",
+    "Age": 73,
+    "MonthlySalary": 12067.68709503585,
+    "CreditScore": 749
+  },
+  {
+    "CustomerID": 99701,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 20,
+    "MonthlySalary": 5179.256654177252,
+    "CreditScore": 751
+  },
+  {
+    "CustomerID": 68962,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 3247.8011881431557,
+    "CreditScore": 817
+  },
+  {
+    "CustomerID": 62028,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 28,
+    "MonthlySalary": 3720.027648315917,
+    "CreditScore": 537
+  },
+  {
+    "CustomerID": 41756,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 72,
+    "MonthlySalary": 5351.875584736601,
+    "CreditScore": 574
+  },
+  {
+    "CustomerID": 39506,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 48,
+    "MonthlySalary": 14089.976809966278,
+    "CreditScore": 592
+  },
+  {
+    "CustomerID": 22370,
+    "Gender": "F",
+    "City": "London",
+    "Age": 53,
+    "MonthlySalary": 13659.22549993538,
+    "CreditScore": 696
+  },
+  {
+    "CustomerID": 33367,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 62,
+    "MonthlySalary": 8946.57135492343,
+    "CreditScore": 778
+  },
+  {
+    "CustomerID": 43334,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 30,
+    "MonthlySalary": 10150.867339951332,
+    "CreditScore": 732
+  },
+  {
+    "CustomerID": 51377,
+    "Gender": "M",
+    "City": "London",
+    "Age": 36,
+    "MonthlySalary": 12020.607258884096,
+    "CreditScore": 816
+  },
+  {
+    "CustomerID": 52605,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 11695.1008326278,
+    "CreditScore": 700
+  },
+  {
+    "CustomerID": 42305,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 72,
+    "MonthlySalary": 10303.516633409865,
+    "CreditScore": 647
+  },
+  {
+    "CustomerID": 67526,
+    "Gender": "F",
+    "City": "London",
+    "Age": 48,
+    "MonthlySalary": 6401.227434262646,
+    "CreditScore": 581
+  },
+  {
+    "CustomerID": 48206,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 75,
+    "MonthlySalary": 4465.353484732123,
+    "CreditScore": 745
+  },
+  {
+    "CustomerID": 27583,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 6745.750195726019,
+    "CreditScore": 642
+  },
+  {
+    "CustomerID": 73480,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 69,
+    "MonthlySalary": 6781.566415702268,
+    "CreditScore": 605
+  },
+  {
+    "CustomerID": 23413,
+    "Gender": "O",
+    "City": "London",
+    "Age": 44,
+    "MonthlySalary": 5456.745333684839,
+    "CreditScore": 616
+  },
+  {
+    "CustomerID": 56078,
+    "Gender": "M",
+    "City": "London",
+    "Age": 54,
+    "MonthlySalary": 8763.597352449982,
+    "CreditScore": 549
+  },
+  {
+    "CustomerID": 59776,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 48,
+    "MonthlySalary": 7097.827594360633,
+    "CreditScore": 652
+  },
+  {
+    "CustomerID": 35624,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 11575.615585174708,
+    "CreditScore": 788
+  },
+  {
+    "CustomerID": 66235,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 54,
+    "MonthlySalary": 10875.745238935582,
+    "CreditScore": 696
+  },
+  {
+    "CustomerID": 60511,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 28,
+    "MonthlySalary": 8879.929034444305,
+    "CreditScore": 514
+  },
+  {
+    "CustomerID": 33146,
+    "Gender": "F",
+    "City": "London",
+    "Age": 45,
+    "MonthlySalary": 6003.586301090301,
+    "CreditScore": 779
+  },
+  {
+    "CustomerID": 61027,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 47,
+    "MonthlySalary": 7015.572607704817,
+    "CreditScore": 762
+  },
+  {
+    "CustomerID": 44227,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 73,
+    "MonthlySalary": 5505.108388927696,
+    "CreditScore": 548
+  },
+  {
+    "CustomerID": 89110,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 59,
+    "MonthlySalary": 5454.876674836336,
+    "CreditScore": 764
+  },
+  {
+    "CustomerID": 67062,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 20,
+    "MonthlySalary": 14456.118051021222,
+    "CreditScore": 742
+  },
+  {
+    "CustomerID": 13692,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 61,
+    "MonthlySalary": 5378.522938488243,
+    "CreditScore": 827
+  },
+  {
+    "CustomerID": 76681,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 70,
+    "MonthlySalary": 7723.800675027494,
+    "CreditScore": 809
+  },
+  {
+    "CustomerID": 18152,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 10941.374705953258,
+    "CreditScore": 596
+  },
+  {
+    "CustomerID": 17194,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 25,
+    "MonthlySalary": 11328.3889733539,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 12673,
+    "Gender": "O",
+    "City": "London",
+    "Age": 49,
+    "MonthlySalary": 14787.655198371756,
+    "CreditScore": 503
+  },
+  {
+    "CustomerID": 80978,
+    "Gender": "M",
+    "City": "London",
+    "Age": 50,
+    "MonthlySalary": 13888.649092347026,
+    "CreditScore": 511
+  },
+  {
+    "CustomerID": 98546,
+    "Gender": "O",
+    "City": "London",
+    "Age": 39,
+    "MonthlySalary": 5943.673912890645,
+    "CreditScore": 525
+  },
+  {
+    "CustomerID": 90472,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 9190.701673118803,
+    "CreditScore": 500
+  },
+  {
+    "CustomerID": 17866,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 14501.092717350852,
+    "CreditScore": 524
+  },
+  {
+    "CustomerID": 76971,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 36,
+    "MonthlySalary": 14179.275033181855,
+    "CreditScore": 638
+  },
+  {
+    "CustomerID": 91384,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 44,
+    "MonthlySalary": 8372.27054052331,
+    "CreditScore": 627
+  },
+  {
+    "CustomerID": 13554,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 38,
+    "MonthlySalary": 9102.303198304504,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 81974,
+    "Gender": "F",
+    "City": "London",
+    "Age": 68,
+    "MonthlySalary": 4152.64532682234,
+    "CreditScore": 634
+  },
+  {
+    "CustomerID": 15879,
+    "Gender": "O",
+    "City": "London",
+    "Age": 33,
+    "MonthlySalary": 4161.842078849483,
+    "CreditScore": 616
+  },
+  {
+    "CustomerID": 74087,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 23,
+    "MonthlySalary": 14623.338570397358,
+    "CreditScore": 570
+  },
+  {
+    "CustomerID": 63707,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 46,
+    "MonthlySalary": 11603.267398957503,
+    "CreditScore": 723
+  },
+  {
+    "CustomerID": 48839,
+    "Gender": "M",
+    "City": "London",
+    "Age": 57,
+    "MonthlySalary": 13027.457142949606,
+    "CreditScore": 579
+  },
+  {
+    "CustomerID": 46065,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 64,
+    "MonthlySalary": 5434.173844427044,
+    "CreditScore": 614
+  },
+  {
+    "CustomerID": 88880,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 75,
+    "MonthlySalary": 7477.914142384764,
+    "CreditScore": 633
+  },
+  {
+    "CustomerID": 92776,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 32,
+    "MonthlySalary": 4632.723766774345,
+    "CreditScore": 797
+  },
+  {
+    "CustomerID": 24237,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 30,
+    "MonthlySalary": 6494.007222674827,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 19588,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 56,
+    "MonthlySalary": 3872.694111410351,
+    "CreditScore": 756
+  },
+  {
+    "CustomerID": 45693,
+    "Gender": "M",
+    "City": "London",
+    "Age": 28,
+    "MonthlySalary": 9793.031966105164,
+    "CreditScore": 656
+  },
+  {
+    "CustomerID": 93404,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 25,
+    "MonthlySalary": 11098.28428250174,
+    "CreditScore": 789
+  },
+  {
+    "CustomerID": 92922,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 49,
+    "MonthlySalary": 11046.211364493462,
+    "CreditScore": 501
+  },
+  {
+    "CustomerID": 40100,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 20,
+    "MonthlySalary": 12798.720442352924,
+    "CreditScore": 828
+  },
+  {
+    "CustomerID": 73202,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 50,
+    "MonthlySalary": 12960.917560915,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 16581,
+    "Gender": "O",
+    "City": "London",
+    "Age": 28,
+    "MonthlySalary": 13319.918823610218,
+    "CreditScore": 700
+  },
+  {
+    "CustomerID": 63479,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 7728.876640650868,
+    "CreditScore": 819
+  },
+  {
+    "CustomerID": 12006,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 65,
+    "MonthlySalary": 6461.885229621858,
+    "CreditScore": 565
+  },
+  {
+    "CustomerID": 79181,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 21,
+    "MonthlySalary": 8952.672848277423,
+    "CreditScore": 802
+  },
+  {
+    "CustomerID": 43554,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 13425.954200538132,
+    "CreditScore": 634
+  },
+  {
+    "CustomerID": 16461,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 35,
+    "MonthlySalary": 4677.851396402849,
+    "CreditScore": 503
+  },
+  {
+    "CustomerID": 36879,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 62,
+    "MonthlySalary": 12194.974874432412,
+    "CreditScore": 782
+  },
+  {
+    "CustomerID": 15098,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 10587.460368708616,
+    "CreditScore": 747
+  },
+  {
+    "CustomerID": 20856,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 61,
+    "MonthlySalary": 4170.80735039419,
+    "CreditScore": 708
+  },
+  {
+    "CustomerID": 30695,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 30,
+    "MonthlySalary": 11450.379419426592,
+    "CreditScore": 525
+  },
+  {
+    "CustomerID": 60792,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 7851.880620365509,
+    "CreditScore": 781
+  },
+  {
+    "CustomerID": 72070,
+    "Gender": "O",
+    "City": "London",
+    "Age": 50,
+    "MonthlySalary": 5114.615059440281,
+    "CreditScore": 679
+  },
+  {
+    "CustomerID": 51740,
+    "Gender": "F",
+    "City": "London",
+    "Age": 63,
+    "MonthlySalary": 7060.239773793253,
+    "CreditScore": 728
+  },
+  {
+    "CustomerID": 34217,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 75,
+    "MonthlySalary": 12062.137571474555,
+    "CreditScore": 780
+  },
+  {
+    "CustomerID": 60927,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 51,
+    "MonthlySalary": 5159.076666566508,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 83634,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 8472.66181766291,
+    "CreditScore": 712
+  },
+  {
+    "CustomerID": 93438,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 38,
+    "MonthlySalary": 8360.62073532352,
+    "CreditScore": 667
+  },
+  {
+    "CustomerID": 20076,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 60,
+    "MonthlySalary": 12588.62824033122,
+    "CreditScore": 705
+  },
+  {
+    "CustomerID": 38392,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 55,
+    "MonthlySalary": 3069.4895875600787,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 99179,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 64,
+    "MonthlySalary": 6756.411239911884,
+    "CreditScore": 646
+  },
+  {
+    "CustomerID": 75233,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 48,
+    "MonthlySalary": 5137.983619357816,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 23269,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 56,
+    "MonthlySalary": 7307.311858870619,
+    "CreditScore": 790
+  },
+  {
+    "CustomerID": 88982,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 64,
+    "MonthlySalary": 4839.533212914015,
+    "CreditScore": 682
+  },
+  {
+    "CustomerID": 28706,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 31,
+    "MonthlySalary": 3498.3627422688805,
+    "CreditScore": 679
+  },
+  {
+    "CustomerID": 27530,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 13358.991323563658,
+    "CreditScore": 588
+  },
+  {
+    "CustomerID": 32479,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 56,
+    "MonthlySalary": 6668.8817075806,
+    "CreditScore": 659
+  },
+  {
+    "CustomerID": 68765,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 50,
+    "MonthlySalary": 8091.916145557771,
+    "CreditScore": 688
+  },
+  {
+    "CustomerID": 41594,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 74,
+    "MonthlySalary": 12683.80670994029,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 68146,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 4845.536927110576,
+    "CreditScore": 621
+  },
+  {
+    "CustomerID": 13221,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 53,
+    "MonthlySalary": 5565.27779825459,
+    "CreditScore": 692
+  },
+  {
+    "CustomerID": 57362,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 31,
+    "MonthlySalary": 4862.211301451579,
+    "CreditScore": 764
+  },
+  {
+    "CustomerID": 47930,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 53,
+    "MonthlySalary": 5274.470447471367,
+    "CreditScore": 733
+  },
+  {
+    "CustomerID": 54379,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 68,
+    "MonthlySalary": 7234.612292200576,
+    "CreditScore": 500
+  },
+  {
+    "CustomerID": 69395,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 39,
+    "MonthlySalary": 6929.455328684537,
+    "CreditScore": 633
+  },
+  {
+    "CustomerID": 86661,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 27,
+    "MonthlySalary": 9860.871212217264,
+    "CreditScore": 571
+  },
+  {
+    "CustomerID": 95614,
+    "Gender": "M",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 9297.35129508826,
+    "CreditScore": 611
+  },
+  {
+    "CustomerID": 74984,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 35,
+    "MonthlySalary": 4436.616777463867,
+    "CreditScore": 645
+  },
+  {
+    "CustomerID": 72130,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 36,
+    "MonthlySalary": 3155.675033759258,
+    "CreditScore": 691
+  },
+  {
+    "CustomerID": 12516,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 54,
+    "MonthlySalary": 3356.4124384778897,
+    "CreditScore": 575
+  },
+  {
+    "CustomerID": 81248,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 37,
+    "MonthlySalary": 10118.774714068688,
+    "CreditScore": 718
+  },
+  {
+    "CustomerID": 46559,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 64,
+    "MonthlySalary": 11004.108159379168,
+    "CreditScore": 753
+  },
+  {
+    "CustomerID": 67718,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 32,
+    "MonthlySalary": 7220.543525275672,
+    "CreditScore": 580
+  },
+  {
+    "CustomerID": 20678,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 13194.33731788167,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 83407,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 61,
+    "MonthlySalary": 11040.45325934326,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 16011,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 70,
+    "MonthlySalary": 5286.001233113731,
+    "CreditScore": 607
+  },
+  {
+    "CustomerID": 44073,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 5366.610280495623,
+    "CreditScore": 695
+  },
+  {
+    "CustomerID": 60682,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 28,
+    "MonthlySalary": 11674.406798687574,
+    "CreditScore": 842
+  },
+  {
+    "CustomerID": 99245,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 53,
+    "MonthlySalary": 11342.493874087217,
+    "CreditScore": 620
+  },
+  {
+    "CustomerID": 40904,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 10570.028509950793,
+    "CreditScore": 818
+  },
+  {
+    "CustomerID": 51107,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 71,
+    "MonthlySalary": 13761.641609700398,
+    "CreditScore": 767
+  },
+  {
+    "CustomerID": 11890,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 47,
+    "MonthlySalary": 13067.295845384417,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 66230,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 38,
+    "MonthlySalary": 8462.728714924968,
+    "CreditScore": 571
+  },
+  {
+    "CustomerID": 28100,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 66,
+    "MonthlySalary": 12051.048026840346,
+    "CreditScore": 756
+  },
+  {
+    "CustomerID": 32137,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 47,
+    "MonthlySalary": 5564.832145185858,
+    "CreditScore": 516
+  },
+  {
+    "CustomerID": 65932,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 3822.920310808204,
+    "CreditScore": 822
+  },
+  {
+    "CustomerID": 71089,
+    "Gender": "F",
+    "City": "London",
+    "Age": 68,
+    "MonthlySalary": 9661.45043641246,
+    "CreditScore": 693
+  },
+  {
+    "CustomerID": 93341,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 48,
+    "MonthlySalary": 3587.2801713062995,
+    "CreditScore": 559
+  },
+  {
+    "CustomerID": 35059,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 60,
+    "MonthlySalary": 4404.449785800993,
+    "CreditScore": 532
+  },
+  {
+    "CustomerID": 25318,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 68,
+    "MonthlySalary": 6311.7210006808855,
+    "CreditScore": 820
+  },
+  {
+    "CustomerID": 24945,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 31,
+    "MonthlySalary": 5761.547918521507,
+    "CreditScore": 521
+  },
+  {
+    "CustomerID": 54568,
+    "Gender": "F",
+    "City": "London",
+    "Age": 49,
+    "MonthlySalary": 7300.789347883223,
+    "CreditScore": 846
+  },
+  {
+    "CustomerID": 48680,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 35,
+    "MonthlySalary": 14219.603642522332,
+    "CreditScore": 507
+  },
+  {
+    "CustomerID": 51590,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 54,
+    "MonthlySalary": 4989.745224021881,
+    "CreditScore": 599
+  },
+  {
+    "CustomerID": 50616,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 64,
+    "MonthlySalary": 7181.595715851674,
+    "CreditScore": 708
+  },
+  {
+    "CustomerID": 16475,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 31,
+    "MonthlySalary": 10340.355228859831,
+    "CreditScore": 781
+  },
+  {
+    "CustomerID": 41109,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 69,
+    "MonthlySalary": 8632.123539757671,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 25885,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 30,
+    "MonthlySalary": 14583.281287298629,
+    "CreditScore": 708
+  },
+  {
+    "CustomerID": 82730,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 49,
+    "MonthlySalary": 6997.1527256079935,
+    "CreditScore": 817
+  },
+  {
+    "CustomerID": 68170,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 74,
+    "MonthlySalary": 14857.65491584381,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 92264,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 38,
+    "MonthlySalary": 6772.882826871033,
+    "CreditScore": 774
+  },
+  {
+    "CustomerID": 42891,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 62,
+    "MonthlySalary": 5943.607297201271,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 43614,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 74,
+    "MonthlySalary": 3892.753051991549,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 44455,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 56,
+    "MonthlySalary": 7097.053767447486,
+    "CreditScore": 811
+  },
+  {
+    "CustomerID": 78433,
+    "Gender": "F",
+    "City": "London",
+    "Age": 34,
+    "MonthlySalary": 9615.077074405206,
+    "CreditScore": 823
+  },
+  {
+    "CustomerID": 88342,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 62,
+    "MonthlySalary": 13305.979240903203,
+    "CreditScore": 534
+  },
+  {
+    "CustomerID": 82532,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 24,
+    "MonthlySalary": 9806.788559718992,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 64541,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 70,
+    "MonthlySalary": 5544.052215628848,
+    "CreditScore": 534
+  },
+  {
+    "CustomerID": 50357,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 36,
+    "MonthlySalary": 11295.100108758808,
+    "CreditScore": 611
+  },
+  {
+    "CustomerID": 34496,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 32,
+    "MonthlySalary": 10999.959119635443,
+    "CreditScore": 542
+  },
+  {
+    "CustomerID": 26035,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 23,
+    "MonthlySalary": 6568.206548715365,
+    "CreditScore": 801
+  },
+  {
+    "CustomerID": 78376,
+    "Gender": "O",
+    "City": "London",
+    "Age": 74,
+    "MonthlySalary": 3554.580321940598,
+    "CreditScore": 763
+  },
+  {
+    "CustomerID": 10949,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 9331.621426241289,
+    "CreditScore": 675
+  },
+  {
+    "CustomerID": 46333,
+    "Gender": "F",
+    "City": "London",
+    "Age": 32,
+    "MonthlySalary": 10205.283531635974,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 12401,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 64,
+    "MonthlySalary": 7849.828176390362,
+    "CreditScore": 830
+  },
+  {
+    "CustomerID": 85318,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 68,
+    "MonthlySalary": 14877.282267648556,
+    "CreditScore": 837
+  },
+  {
+    "CustomerID": 21195,
+    "Gender": "M",
+    "City": "London",
+    "Age": 66,
+    "MonthlySalary": 9446.870876647044,
+    "CreditScore": 675
+  },
+  {
+    "CustomerID": 14409,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 51,
+    "MonthlySalary": 12739.478785474048,
+    "CreditScore": 660
+  },
+  {
+    "CustomerID": 31472,
+    "Gender": "M",
+    "City": "London",
+    "Age": 20,
+    "MonthlySalary": 6687.785425040824,
+    "CreditScore": 762
+  },
+  {
+    "CustomerID": 76357,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 67,
+    "MonthlySalary": 9170.7557637784,
+    "CreditScore": 774
+  },
+  {
+    "CustomerID": 60194,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 26,
+    "MonthlySalary": 6664.592277344088,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 76582,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 61,
+    "MonthlySalary": 8104.794695639902,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 11546,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 40,
+    "MonthlySalary": 5390.979716180564,
+    "CreditScore": 768
+  },
+  {
+    "CustomerID": 36307,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 44,
+    "MonthlySalary": 13718.392565659624,
+    "CreditScore": 837
+  },
+  {
+    "CustomerID": 68275,
+    "Gender": "F",
+    "City": "London",
+    "Age": 41,
+    "MonthlySalary": 14568.924199263234,
+    "CreditScore": 823
+  },
+  {
+    "CustomerID": 35984,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 32,
+    "MonthlySalary": 3971.729354211311,
+    "CreditScore": 570
+  },
+  {
+    "CustomerID": 53868,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 61,
+    "MonthlySalary": 4251.1025421913055,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 82164,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 49,
+    "MonthlySalary": 7222.886702049204,
+    "CreditScore": 528
+  },
+  {
+    "CustomerID": 84079,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 58,
+    "MonthlySalary": 11201.122251449522,
+    "CreditScore": 627
+  },
+  {
+    "CustomerID": 70876,
+    "Gender": "M",
+    "City": "London",
+    "Age": 65,
+    "MonthlySalary": 11360.171295373711,
+    "CreditScore": 614
+  },
+  {
+    "CustomerID": 46995,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 57,
+    "MonthlySalary": 10818.70838668359,
+    "CreditScore": 598
+  },
+  {
+    "CustomerID": 47960,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 7105.462705638202,
+    "CreditScore": 724
+  },
+  {
+    "CustomerID": 85971,
+    "Gender": "O",
+    "City": "London",
+    "Age": 59,
+    "MonthlySalary": 11424.189610246269,
+    "CreditScore": 578
+  },
+  {
+    "CustomerID": 56095,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 37,
+    "MonthlySalary": 9107.171852940584,
+    "CreditScore": 660
+  },
+  {
+    "CustomerID": 13242,
+    "Gender": "O",
+    "City": "London",
+    "Age": 40,
+    "MonthlySalary": 5575.770214370325,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 22921,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 75,
+    "MonthlySalary": 3426.1768261198995,
+    "CreditScore": 528
+  },
+  {
+    "CustomerID": 85546,
+    "Gender": "M",
+    "City": "London",
+    "Age": 42,
+    "MonthlySalary": 5937.561078885637,
+    "CreditScore": 830
+  },
+  {
+    "CustomerID": 94879,
+    "Gender": "F",
+    "City": "London",
+    "Age": 20,
+    "MonthlySalary": 8799.004877260366,
+    "CreditScore": 591
+  },
+  {
+    "CustomerID": 84964,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 26,
+    "MonthlySalary": 4968.894416884267,
+    "CreditScore": 508
+  },
+  {
+    "CustomerID": 40093,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 50,
+    "MonthlySalary": 7465.573952444504,
+    "CreditScore": 807
+  },
+  {
+    "CustomerID": 17646,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 75,
+    "MonthlySalary": 5448.44398301119,
+    "CreditScore": 703
+  },
+  {
+    "CustomerID": 56657,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 61,
+    "MonthlySalary": 14687.307651044135,
+    "CreditScore": 543
+  },
+  {
+    "CustomerID": 69907,
+    "Gender": "F",
+    "City": "London",
+    "Age": 53,
+    "MonthlySalary": 9714.565077965097,
+    "CreditScore": 565
+  },
+  {
+    "CustomerID": 58628,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 37,
+    "MonthlySalary": 4614.305180292213,
+    "CreditScore": 722
+  },
+  {
+    "CustomerID": 74925,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 22,
+    "MonthlySalary": 6604.528249121231,
+    "CreditScore": 586
+  },
+  {
+    "CustomerID": 21133,
+    "Gender": "M",
+    "City": "London",
+    "Age": 74,
+    "MonthlySalary": 8579.223829972483,
+    "CreditScore": 629
+  },
+  {
+    "CustomerID": 44731,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 65,
+    "MonthlySalary": 12777.75624310909,
+    "CreditScore": 799
+  },
+  {
+    "CustomerID": 30087,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 65,
+    "MonthlySalary": 3351.7460610805583,
+    "CreditScore": 529
+  },
+  {
+    "CustomerID": 74418,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 63,
+    "MonthlySalary": 12805.13771661746,
+    "CreditScore": 510
+  },
+  {
+    "CustomerID": 26523,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 60,
+    "MonthlySalary": 13621.325385347704,
+    "CreditScore": 658
+  },
+  {
+    "CustomerID": 81451,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 73,
+    "MonthlySalary": 13722.8561451501,
+    "CreditScore": 825
+  },
+  {
+    "CustomerID": 92556,
+    "Gender": "O",
+    "City": "London",
+    "Age": 44,
+    "MonthlySalary": 7978.038939993361,
+    "CreditScore": 723
+  },
+  {
+    "CustomerID": 71832,
+    "Gender": "M",
+    "City": "London",
+    "Age": 70,
+    "MonthlySalary": 11950.999257713833,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 82276,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 38,
+    "MonthlySalary": 3059.8076544689216,
+    "CreditScore": 524
+  },
+  {
+    "CustomerID": 64649,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 31,
+    "MonthlySalary": 3958.400607809821,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 65640,
+    "Gender": "M",
+    "City": "London",
+    "Age": 73,
+    "MonthlySalary": 5848.4527635433205,
+    "CreditScore": 538
+  },
+  {
+    "CustomerID": 75773,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 43,
+    "MonthlySalary": 10775.925145295794,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 65681,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 59,
+    "MonthlySalary": 4082.3835580483633,
+    "CreditScore": 589
+  },
+  {
+    "CustomerID": 43724,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 70,
+    "MonthlySalary": 6166.703533644135,
+    "CreditScore": 645
+  },
+  {
+    "CustomerID": 74958,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 32,
+    "MonthlySalary": 14161.954670849116,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 26069,
+    "Gender": "O",
+    "City": "London",
+    "Age": 32,
+    "MonthlySalary": 12870.275854546864,
+    "CreditScore": 720
+  },
+  {
+    "CustomerID": 25167,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 49,
+    "MonthlySalary": 4567.300956360111,
+    "CreditScore": 826
+  },
+  {
+    "CustomerID": 34212,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 52,
+    "MonthlySalary": 13260.653712120877,
+    "CreditScore": 740
+  },
+  {
+    "CustomerID": 42004,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 34,
+    "MonthlySalary": 6192.9916722784255,
+    "CreditScore": 526
+  },
+  {
+    "CustomerID": 70153,
+    "Gender": "O",
+    "City": "London",
+    "Age": 74,
+    "MonthlySalary": 3960.684605967742,
+    "CreditScore": 842
+  },
+  {
+    "CustomerID": 39578,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 69,
+    "MonthlySalary": 3702.0129768821153,
+    "CreditScore": 658
+  },
+  {
+    "CustomerID": 87749,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 47,
+    "MonthlySalary": 10423.495587384585,
+    "CreditScore": 581
+  },
+  {
+    "CustomerID": 18161,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 10568.795741758007,
+    "CreditScore": 829
+  },
+  {
+    "CustomerID": 34551,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 72,
+    "MonthlySalary": 13464.995715418045,
+    "CreditScore": 832
+  },
+  {
+    "CustomerID": 10771,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 72,
+    "MonthlySalary": 5572.614139035903,
+    "CreditScore": 752
+  },
+  {
+    "CustomerID": 81147,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 50,
+    "MonthlySalary": 11769.714973372484,
+    "CreditScore": 753
+  },
+  {
+    "CustomerID": 67195,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 37,
+    "MonthlySalary": 3997.469963478112,
+    "CreditScore": 690
+  },
+  {
+    "CustomerID": 71348,
+    "Gender": "O",
+    "City": "London",
+    "Age": 36,
+    "MonthlySalary": 12798.34156681595,
+    "CreditScore": 745
+  },
+  {
+    "CustomerID": 27545,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 52,
+    "MonthlySalary": 7980.745694562428,
+    "CreditScore": 553
+  },
+  {
+    "CustomerID": 73287,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 53,
+    "MonthlySalary": 12674.870090719684,
+    "CreditScore": 670
+  },
+  {
+    "CustomerID": 81755,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 36,
+    "MonthlySalary": 4094.734964438871,
+    "CreditScore": 702
+  },
+  {
+    "CustomerID": 57841,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 65,
+    "MonthlySalary": 10388.205784454878,
+    "CreditScore": 612
+  },
+  {
+    "CustomerID": 41732,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 39,
+    "MonthlySalary": 5240.920062323053,
+    "CreditScore": 604
+  },
+  {
+    "CustomerID": 74411,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 12440.738675958475,
+    "CreditScore": 693
+  },
+  {
+    "CustomerID": 73192,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 52,
+    "MonthlySalary": 4827.056800274201,
+    "CreditScore": 623
+  },
+  {
+    "CustomerID": 24815,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 42,
+    "MonthlySalary": 4330.273741875411,
+    "CreditScore": 552
+  },
+  {
+    "CustomerID": 85917,
+    "Gender": "O",
+    "City": "London",
+    "Age": 63,
+    "MonthlySalary": 12753.165637393518,
+    "CreditScore": 830
+  },
+  {
+    "CustomerID": 84650,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 60,
+    "MonthlySalary": 12979.49552192406,
+    "CreditScore": 677
+  },
+  {
+    "CustomerID": 77045,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 51,
+    "MonthlySalary": 6119.336220945099,
+    "CreditScore": 741
+  },
+  {
+    "CustomerID": 14777,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 68,
+    "MonthlySalary": 12474.690479453531,
+    "CreditScore": 750
+  },
+  {
+    "CustomerID": 78402,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 26,
+    "MonthlySalary": 7790.106932876916,
+    "CreditScore": 520
+  },
+  {
+    "CustomerID": 94955,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 53,
+    "MonthlySalary": 11104.204091551816,
+    "CreditScore": 628
+  },
+  {
+    "CustomerID": 23279,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 32,
+    "MonthlySalary": 4405.080493269196,
+    "CreditScore": 532
+  },
+  {
+    "CustomerID": 29318,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 65,
+    "MonthlySalary": 12162.307021346296,
+    "CreditScore": 576
+  },
+  {
+    "CustomerID": 38255,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 32,
+    "MonthlySalary": 10719.63413478028,
+    "CreditScore": 637
+  },
+  {
+    "CustomerID": 80795,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 48,
+    "MonthlySalary": 10381.815435190816,
+    "CreditScore": 553
+  },
+  {
+    "CustomerID": 49895,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 35,
+    "MonthlySalary": 4204.061509935198,
+    "CreditScore": 732
+  },
+  {
+    "CustomerID": 46683,
+    "Gender": "F",
+    "City": "London",
+    "Age": 45,
+    "MonthlySalary": 10449.69171174056,
+    "CreditScore": 825
+  },
+  {
+    "CustomerID": 12910,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 43,
+    "MonthlySalary": 13584.495968191868,
+    "CreditScore": 590
+  },
+  {
+    "CustomerID": 89966,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 21,
+    "MonthlySalary": 3242.659442701241,
+    "CreditScore": 607
+  },
+  {
+    "CustomerID": 27959,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 63,
+    "MonthlySalary": 3937.992992261448,
+    "CreditScore": 685
+  },
+  {
+    "CustomerID": 92248,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 66,
+    "MonthlySalary": 12756.965971829391,
+    "CreditScore": 742
+  },
+  {
+    "CustomerID": 53761,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 27,
+    "MonthlySalary": 8455.60542353793,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 90496,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 29,
+    "MonthlySalary": 5533.779073109967,
+    "CreditScore": 544
+  },
+  {
+    "CustomerID": 56975,
+    "Gender": "F",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 8650.856723943412,
+    "CreditScore": 727
+  },
+  {
+    "CustomerID": 57947,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 46,
+    "MonthlySalary": 3537.2297410179463,
+    "CreditScore": 767
+  },
+  {
+    "CustomerID": 45531,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 27,
+    "MonthlySalary": 6718.846644656172,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 11433,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 72,
+    "MonthlySalary": 10138.897758726973,
+    "CreditScore": 843
+  },
+  {
+    "CustomerID": 24002,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 52,
+    "MonthlySalary": 12691.188564914022,
+    "CreditScore": 782
+  },
+  {
+    "CustomerID": 20929,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 38,
+    "MonthlySalary": 3262.989174515217,
+    "CreditScore": 527
+  },
+  {
+    "CustomerID": 86408,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 46,
+    "MonthlySalary": 3320.5494397725506,
+    "CreditScore": 537
+  },
+  {
+    "CustomerID": 56180,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 27,
+    "MonthlySalary": 3167.9640762783174,
+    "CreditScore": 674
+  },
+  {
+    "CustomerID": 26748,
+    "Gender": "M",
+    "City": "London",
+    "Age": 71,
+    "MonthlySalary": 13350.7612968911,
+    "CreditScore": 535
+  },
+  {
+    "CustomerID": 92519,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 39,
+    "MonthlySalary": 11406.891002444114,
+    "CreditScore": 757
+  },
+  {
+    "CustomerID": 61898,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 54,
+    "MonthlySalary": 8679.615933940335,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 19841,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 48,
+    "MonthlySalary": 5642.582012403616,
+    "CreditScore": 825
+  },
+  {
+    "CustomerID": 48371,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 55,
+    "MonthlySalary": 13874.701079608036,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 20702,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 50,
+    "MonthlySalary": 9272.714797241828,
+    "CreditScore": 707
+  },
+  {
+    "CustomerID": 44178,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 37,
+    "MonthlySalary": 5388.930956259808,
+    "CreditScore": 696
+  },
+  {
+    "CustomerID": 78400,
+    "Gender": "O",
+    "City": "London",
+    "Age": 31,
+    "MonthlySalary": 6013.205810367118,
+    "CreditScore": 775
+  },
+  {
+    "CustomerID": 63106,
+    "Gender": "O",
+    "City": "London",
+    "Age": 32,
+    "MonthlySalary": 4091.25580660144,
+    "CreditScore": 584
+  },
+  {
+    "CustomerID": 16874,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 50,
+    "MonthlySalary": 13021.870283973603,
+    "CreditScore": 847
+  },
+  {
+    "CustomerID": 18655,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 70,
+    "MonthlySalary": 14073.424458627956,
+    "CreditScore": 770
+  },
+  {
+    "CustomerID": 75311,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 71,
+    "MonthlySalary": 3304.178075279176,
+    "CreditScore": 595
+  },
+  {
+    "CustomerID": 86538,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 25,
+    "MonthlySalary": 5617.883977226669,
+    "CreditScore": 712
+  },
+  {
+    "CustomerID": 75134,
+    "Gender": "O",
+    "City": "London",
+    "Age": 34,
+    "MonthlySalary": 4973.307747202765,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 62398,
+    "Gender": "F",
+    "City": "London",
+    "Age": 60,
+    "MonthlySalary": 4142.025065814236,
+    "CreditScore": 683
+  },
+  {
+    "CustomerID": 98286,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 26,
+    "MonthlySalary": 4860.950686611217,
+    "CreditScore": 707
+  },
+  {
+    "CustomerID": 83758,
+    "Gender": "O",
+    "City": "London",
+    "Age": 42,
+    "MonthlySalary": 8121.576450492422,
+    "CreditScore": 757
+  },
+  {
+    "CustomerID": 95122,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 51,
+    "MonthlySalary": 11411.903379537189,
+    "CreditScore": 633
+  },
+  {
+    "CustomerID": 64551,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 37,
+    "MonthlySalary": 6434.507628542077,
+    "CreditScore": 841
+  },
+  {
+    "CustomerID": 28787,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 40,
+    "MonthlySalary": 9585.995861931597,
+    "CreditScore": 726
+  },
+  {
+    "CustomerID": 96849,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 36,
+    "MonthlySalary": 4280.347288217564,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 20349,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 37,
+    "MonthlySalary": 9515.131702995754,
+    "CreditScore": 592
+  },
+  {
+    "CustomerID": 11047,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 47,
+    "MonthlySalary": 6945.054627193391,
+    "CreditScore": 588
+  },
+  {
+    "CustomerID": 81316,
+    "Gender": "F",
+    "City": "London",
+    "Age": 56,
+    "MonthlySalary": 7541.089701952051,
+    "CreditScore": 687
+  },
+  {
+    "CustomerID": 93038,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 31,
+    "MonthlySalary": 5933.151935422527,
+    "CreditScore": 805
+  },
+  {
+    "CustomerID": 21239,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 55,
+    "MonthlySalary": 8088.871781424925,
+    "CreditScore": 837
+  },
+  {
+    "CustomerID": 36481,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 68,
+    "MonthlySalary": 11696.985685279184,
+    "CreditScore": 538
+  },
+  {
+    "CustomerID": 98019,
+    "Gender": "F",
+    "City": "London",
+    "Age": 35,
+    "MonthlySalary": 6439.536257137679,
+    "CreditScore": 743
+  },
+  {
+    "CustomerID": 13392,
+    "Gender": "M",
+    "City": "London",
+    "Age": 27,
+    "MonthlySalary": 14133.234594647984,
+    "CreditScore": 650
+  },
+  {
+    "CustomerID": 41349,
+    "Gender": "F",
+    "City": "London",
+    "Age": 59,
+    "MonthlySalary": 8866.781179613321,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 54013,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 21,
+    "MonthlySalary": 4164.000281608723,
+    "CreditScore": 784
+  },
+  {
+    "CustomerID": 20408,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 9396.682913556871,
+    "CreditScore": 544
+  },
+  {
+    "CustomerID": 58714,
+    "Gender": "M",
+    "City": "London",
+    "Age": 45,
+    "MonthlySalary": 8874.480988449048,
+    "CreditScore": 817
+  },
+  {
+    "CustomerID": 60714,
+    "Gender": "O",
+    "City": "London",
+    "Age": 48,
+    "MonthlySalary": 3766.395918157218,
+    "CreditScore": 751
+  },
+  {
+    "CustomerID": 81178,
+    "Gender": "F",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 7412.872409496073,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 52477,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 45,
+    "MonthlySalary": 11160.516979378728,
+    "CreditScore": 736
+  },
+  {
+    "CustomerID": 35649,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 28,
+    "MonthlySalary": 12909.617300265763,
+    "CreditScore": 594
+  },
+  {
+    "CustomerID": 96768,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 20,
+    "MonthlySalary": 6482.217008682097,
+    "CreditScore": 537
+  },
+  {
+    "CustomerID": 30891,
+    "Gender": "O",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 4186.57128165778,
+    "CreditScore": 641
+  },
+  {
+    "CustomerID": 86225,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 68,
+    "MonthlySalary": 3731.7652544307,
+    "CreditScore": 705
+  },
+  {
+    "CustomerID": 82938,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 56,
+    "MonthlySalary": 13267.172852216496,
+    "CreditScore": 603
+  },
+  {
+    "CustomerID": 45582,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 11537.66549420542,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 64144,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 12634.39938673676,
+    "CreditScore": 775
+  },
+  {
+    "CustomerID": 36989,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 75,
+    "MonthlySalary": 7285.443078592786,
+    "CreditScore": 804
+  },
+  {
+    "CustomerID": 82253,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 62,
+    "MonthlySalary": 10829.851333055449,
+    "CreditScore": 778
+  },
+  {
+    "CustomerID": 80393,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 64,
+    "MonthlySalary": 3800.0133475286448,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 18987,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 64,
+    "MonthlySalary": 8913.557352185737,
+    "CreditScore": 832
+  },
+  {
+    "CustomerID": 73021,
+    "Gender": "F",
+    "City": "London",
+    "Age": 33,
+    "MonthlySalary": 12132.52768400178,
+    "CreditScore": 632
+  },
+  {
+    "CustomerID": 90942,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 20,
+    "MonthlySalary": 5357.789337891598,
+    "CreditScore": 607
+  },
+  {
+    "CustomerID": 12947,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 56,
+    "MonthlySalary": 9068.549996428632,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 97935,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 41,
+    "MonthlySalary": 12020.733750389192,
+    "CreditScore": 783
+  },
+  {
+    "CustomerID": 49002,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 52,
+    "MonthlySalary": 14537.91580574738,
+    "CreditScore": 636
+  },
+  {
+    "CustomerID": 33213,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 34,
+    "MonthlySalary": 3050.508105576196,
+    "CreditScore": 778
+  },
+  {
+    "CustomerID": 22368,
+    "Gender": "F",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 7421.686625351585,
+    "CreditScore": 555
+  },
+  {
+    "CustomerID": 13786,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 74,
+    "MonthlySalary": 13825.65962345248,
+    "CreditScore": 686
+  },
+  {
+    "CustomerID": 30668,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 69,
+    "MonthlySalary": 13875.596334830354,
+    "CreditScore": 575
+  },
+  {
+    "CustomerID": 79012,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 46,
+    "MonthlySalary": 8837.2797404296,
+    "CreditScore": 627
+  },
+  {
+    "CustomerID": 97200,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 47,
+    "MonthlySalary": 13018.74252554533,
+    "CreditScore": 664
+  },
+  {
+    "CustomerID": 93468,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 3956.884976168101,
+    "CreditScore": 833
+  },
+  {
+    "CustomerID": 49261,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 72,
+    "MonthlySalary": 12988.332171178145,
+    "CreditScore": 680
+  },
+  {
+    "CustomerID": 47205,
+    "Gender": "O",
+    "City": "London",
+    "Age": 22,
+    "MonthlySalary": 13210.582718308053,
+    "CreditScore": 563
+  },
+  {
+    "CustomerID": 11051,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 44,
+    "MonthlySalary": 10448.075791398458,
+    "CreditScore": 834
+  },
+  {
+    "CustomerID": 74072,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 42,
+    "MonthlySalary": 9775.582711253755,
+    "CreditScore": 690
+  },
+  {
+    "CustomerID": 80569,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 48,
+    "MonthlySalary": 11459.419470165783,
+    "CreditScore": 506
+  },
+  {
+    "CustomerID": 98812,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 22,
+    "MonthlySalary": 10180.4134415529,
+    "CreditScore": 630
+  },
+  {
+    "CustomerID": 80575,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 73,
+    "MonthlySalary": 7299.0134145895745,
+    "CreditScore": 532
+  },
+  {
+    "CustomerID": 92237,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 39,
+    "MonthlySalary": 6980.020964616138,
+    "CreditScore": 595
+  },
+  {
+    "CustomerID": 41215,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 65,
+    "MonthlySalary": 13137.187520572514,
+    "CreditScore": 509
+  },
+  {
+    "CustomerID": 77744,
+    "Gender": "M",
+    "City": "London",
+    "Age": 41,
+    "MonthlySalary": 9481.867890078076,
+    "CreditScore": 717
+  },
+  {
+    "CustomerID": 40453,
+    "Gender": "F",
+    "City": "London",
+    "Age": 72,
+    "MonthlySalary": 4961.841041826484,
+    "CreditScore": 745
+  },
+  {
+    "CustomerID": 30926,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 62,
+    "MonthlySalary": 14252.5731096672,
+    "CreditScore": 850
+  },
+  {
+    "CustomerID": 11879,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 48,
+    "MonthlySalary": 14695.501909147124,
+    "CreditScore": 700
+  },
+  {
+    "CustomerID": 81074,
+    "Gender": "F",
+    "City": "London",
+    "Age": 24,
+    "MonthlySalary": 6793.666604791681,
+    "CreditScore": 748
+  },
+  {
+    "CustomerID": 12175,
+    "Gender": "M",
+    "City": "London",
+    "Age": 71,
+    "MonthlySalary": 10697.810483796022,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 82893,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 20,
+    "MonthlySalary": 4617.143283101242,
+    "CreditScore": 839
+  },
+  {
+    "CustomerID": 67410,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 74,
+    "MonthlySalary": 10311.136503509257,
+    "CreditScore": 804
+  },
+  {
+    "CustomerID": 70661,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 34,
+    "MonthlySalary": 5695.4627402243805,
+    "CreditScore": 679
+  },
+  {
+    "CustomerID": 10254,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 74,
+    "MonthlySalary": 4337.508282572891,
+    "CreditScore": 759
+  },
+  {
+    "CustomerID": 54763,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 46,
+    "MonthlySalary": 12076.093285254356,
+    "CreditScore": 621
+  },
+  {
+    "CustomerID": 41102,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 28,
+    "MonthlySalary": 8565.67727262654,
+    "CreditScore": 790
+  },
+  {
+    "CustomerID": 69299,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 44,
+    "MonthlySalary": 8941.772152333282,
+    "CreditScore": 602
+  },
+  {
+    "CustomerID": 70026,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 29,
+    "MonthlySalary": 4531.965458392078,
+    "CreditScore": 634
+  },
+  {
+    "CustomerID": 50666,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 67,
+    "MonthlySalary": 14797.336315572262,
+    "CreditScore": 595
+  },
+  {
+    "CustomerID": 99196,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 75,
+    "MonthlySalary": 7322.547033303531,
+    "CreditScore": 517
+  },
+  {
+    "CustomerID": 50466,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 47,
+    "MonthlySalary": 14043.485931609384,
+    "CreditScore": 848
+  },
+  {
+    "CustomerID": 30046,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 62,
+    "MonthlySalary": 10910.408536539955,
+    "CreditScore": 718
+  },
+  {
+    "CustomerID": 87478,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 51,
+    "MonthlySalary": 11027.302045830524,
+    "CreditScore": 844
+  },
+  {
+    "CustomerID": 70172,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 4478.643794467348,
+    "CreditScore": 619
+  },
+  {
+    "CustomerID": 46150,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 9535.857091254871,
+    "CreditScore": 683
+  },
+  {
+    "CustomerID": 40721,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 65,
+    "MonthlySalary": 13377.188147000956,
+    "CreditScore": 531
+  },
+  {
+    "CustomerID": 18357,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 63,
+    "MonthlySalary": 6157.580740437068,
+    "CreditScore": 834
+  },
+  {
+    "CustomerID": 44986,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 42,
+    "MonthlySalary": 4235.236578620319,
+    "CreditScore": 586
+  },
+  {
+    "CustomerID": 33675,
+    "Gender": "F",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 8549.39476494163,
+    "CreditScore": 581
+  },
+  {
+    "CustomerID": 64103,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 29,
+    "MonthlySalary": 7924.434712208143,
+    "CreditScore": 542
+  },
+  {
+    "CustomerID": 93133,
+    "Gender": "F",
+    "City": "London",
+    "Age": 41,
+    "MonthlySalary": 7232.444716002088,
+    "CreditScore": 715
+  },
+  {
+    "CustomerID": 73887,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 48,
+    "MonthlySalary": 10426.050384429598,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 28586,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 43,
+    "MonthlySalary": 10328.395045424222,
+    "CreditScore": 617
+  },
+  {
+    "CustomerID": 89456,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 74,
+    "MonthlySalary": 11024.719090618044,
+    "CreditScore": 515
+  },
+  {
+    "CustomerID": 71989,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 43,
+    "MonthlySalary": 10790.117131585484,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 31311,
+    "Gender": "F",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 5402.565864337217,
+    "CreditScore": 809
+  },
+  {
+    "CustomerID": 74881,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 11627.47941626218,
+    "CreditScore": 761
+  },
+  {
+    "CustomerID": 13411,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 20,
+    "MonthlySalary": 4581.1189220463975,
+    "CreditScore": 715
+  },
+  {
+    "CustomerID": 45993,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 30,
+    "MonthlySalary": 5877.357636006324,
+    "CreditScore": 792
+  },
+  {
+    "CustomerID": 22890,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 32,
+    "MonthlySalary": 4223.337344998751,
+    "CreditScore": 706
+  },
+  {
+    "CustomerID": 67080,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 69,
+    "MonthlySalary": 6402.182667020377,
+    "CreditScore": 599
+  },
+  {
+    "CustomerID": 77732,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 44,
+    "MonthlySalary": 9481.717379332182,
+    "CreditScore": 643
+  },
+  {
+    "CustomerID": 82155,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 57,
+    "MonthlySalary": 11157.81458714367,
+    "CreditScore": 686
+  },
+  {
+    "CustomerID": 94479,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 36,
+    "MonthlySalary": 8110.917736909172,
+    "CreditScore": 681
+  },
+  {
+    "CustomerID": 62096,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 64,
+    "MonthlySalary": 4849.206624421302,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 94355,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 60,
+    "MonthlySalary": 9233.055216279094,
+    "CreditScore": 594
+  },
+  {
+    "CustomerID": 90667,
+    "Gender": "F",
+    "City": "London",
+    "Age": 61,
+    "MonthlySalary": 8580.866535835114,
+    "CreditScore": 518
+  },
+  {
+    "CustomerID": 26498,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 11801.98799701462,
+    "CreditScore": 787
+  },
+  {
+    "CustomerID": 91742,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 35,
+    "MonthlySalary": 8604.062135367974,
+    "CreditScore": 622
+  },
+  {
+    "CustomerID": 59253,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 61,
+    "MonthlySalary": 8775.244053366048,
+    "CreditScore": 655
+  },
+  {
+    "CustomerID": 69591,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 36,
+    "MonthlySalary": 3510.570467964409,
+    "CreditScore": 819
+  },
+  {
+    "CustomerID": 55876,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 43,
+    "MonthlySalary": 10844.30534098114,
+    "CreditScore": 692
+  },
+  {
+    "CustomerID": 47944,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 33,
+    "MonthlySalary": 5133.95832502049,
+    "CreditScore": 680
+  },
+  {
+    "CustomerID": 53661,
+    "Gender": "F",
+    "City": "London",
+    "Age": 45,
+    "MonthlySalary": 3318.3949118926416,
+    "CreditScore": 561
+  },
+  {
+    "CustomerID": 48563,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 48,
+    "MonthlySalary": 9004.517887853308,
+    "CreditScore": 774
+  },
+  {
+    "CustomerID": 64565,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 35,
+    "MonthlySalary": 7370.56571476287,
+    "CreditScore": 767
+  },
+  {
+    "CustomerID": 84433,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 48,
+    "MonthlySalary": 14935.807164463911,
+    "CreditScore": 563
+  },
+  {
+    "CustomerID": 50054,
+    "Gender": "F",
+    "City": "London",
+    "Age": 55,
+    "MonthlySalary": 12198.565072165396,
+    "CreditScore": 565
+  },
+  {
+    "CustomerID": 32730,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 46,
+    "MonthlySalary": 14809.875115493856,
+    "CreditScore": 552
+  },
+  {
+    "CustomerID": 12964,
+    "Gender": "F",
+    "City": "London",
+    "Age": 21,
+    "MonthlySalary": 14661.686746650152,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 85387,
+    "Gender": "O",
+    "City": "London",
+    "Age": 47,
+    "MonthlySalary": 3484.3747186276723,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 11918,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 67,
+    "MonthlySalary": 6048.879691649534,
+    "CreditScore": 842
+  },
+  {
+    "CustomerID": 20536,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 58,
+    "MonthlySalary": 3364.440861966349,
+    "CreditScore": 623
+  },
+  {
+    "CustomerID": 48518,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 20,
+    "MonthlySalary": 4016.129670360886,
+    "CreditScore": 823
+  },
+  {
+    "CustomerID": 73006,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 68,
+    "MonthlySalary": 3831.478607137528,
+    "CreditScore": 552
+  },
+  {
+    "CustomerID": 96087,
+    "Gender": "F",
+    "City": "London",
+    "Age": 33,
+    "MonthlySalary": 9039.06052804647,
+    "CreditScore": 577
+  },
+  {
+    "CustomerID": 56834,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 64,
+    "MonthlySalary": 11533.417248780856,
+    "CreditScore": 735
+  },
+  {
+    "CustomerID": 46775,
+    "Gender": "F",
+    "City": "London",
+    "Age": 44,
+    "MonthlySalary": 12962.870996278702,
+    "CreditScore": 611
+  },
+  {
+    "CustomerID": 53950,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 35,
+    "MonthlySalary": 11573.293507632883,
+    "CreditScore": 720
+  },
+  {
+    "CustomerID": 97609,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 27,
+    "MonthlySalary": 11738.399770458376,
+    "CreditScore": 607
+  },
+  {
+    "CustomerID": 57734,
+    "Gender": "O",
+    "City": "London",
+    "Age": 35,
+    "MonthlySalary": 3715.900394438344,
+    "CreditScore": 626
+  },
+  {
+    "CustomerID": 82022,
+    "Gender": "O",
+    "City": "London",
+    "Age": 28,
+    "MonthlySalary": 10265.655181854,
+    "CreditScore": 530
+  },
+  {
+    "CustomerID": 29930,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 13691.003212567515,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 20866,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 22,
+    "MonthlySalary": 14184.579884349376,
+    "CreditScore": 771
+  },
+  {
+    "CustomerID": 27154,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 37,
+    "MonthlySalary": 6680.697505617303,
+    "CreditScore": 774
+  },
+  {
+    "CustomerID": 32313,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 55,
+    "MonthlySalary": 11516.50117743253,
+    "CreditScore": 749
+  },
+  {
+    "CustomerID": 33960,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 48,
+    "MonthlySalary": 14763.473566741735,
+    "CreditScore": 696
+  },
+  {
+    "CustomerID": 23928,
+    "Gender": "F",
+    "City": "London",
+    "Age": 55,
+    "MonthlySalary": 12121.666342057952,
+    "CreditScore": 824
+  },
+  {
+    "CustomerID": 23148,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 51,
+    "MonthlySalary": 14384.498123469008,
+    "CreditScore": 654
+  },
+  {
+    "CustomerID": 11586,
+    "Gender": "O",
+    "City": "London",
+    "Age": 40,
+    "MonthlySalary": 10500.59056673198,
+    "CreditScore": 818
+  },
+  {
+    "CustomerID": 30536,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 55,
+    "MonthlySalary": 4452.893563462469,
+    "CreditScore": 575
+  },
+  {
+    "CustomerID": 75713,
+    "Gender": "O",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 4087.7390637572057,
+    "CreditScore": 787
+  },
+  {
+    "CustomerID": 84446,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 10725.040936156072,
+    "CreditScore": 516
+  },
+  {
+    "CustomerID": 46530,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 47,
+    "MonthlySalary": 13191.899113823529,
+    "CreditScore": 559
+  },
+  {
+    "CustomerID": 73991,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 64,
+    "MonthlySalary": 8876.097618204523,
+    "CreditScore": 813
+  },
+  {
+    "CustomerID": 93282,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 3475.244635549687,
+    "CreditScore": 779
+  },
+  {
+    "CustomerID": 58991,
+    "Gender": "M",
+    "City": "London",
+    "Age": 26,
+    "MonthlySalary": 14785.843400146225,
+    "CreditScore": 776
+  },
+  {
+    "CustomerID": 83375,
+    "Gender": "O",
+    "City": "London",
+    "Age": 51,
+    "MonthlySalary": 8519.399194360663,
+    "CreditScore": 524
+  },
+  {
+    "CustomerID": 93335,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 32,
+    "MonthlySalary": 11793.130018959851,
+    "CreditScore": 745
+  },
+  {
+    "CustomerID": 67548,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 13322.594223388043,
+    "CreditScore": 652
+  },
+  {
+    "CustomerID": 16412,
+    "Gender": "M",
+    "City": "London",
+    "Age": 71,
+    "MonthlySalary": 13713.231559004907,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 30346,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 64,
+    "MonthlySalary": 14216.32870050584,
+    "CreditScore": 575
+  },
+  {
+    "CustomerID": 97186,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 49,
+    "MonthlySalary": 7537.23379021276,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 69800,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 69,
+    "MonthlySalary": 6574.890330355311,
+    "CreditScore": 712
+  },
+  {
+    "CustomerID": 66572,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 64,
+    "MonthlySalary": 14197.556027806062,
+    "CreditScore": 521
+  },
+  {
+    "CustomerID": 45678,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 6156.298591701345,
+    "CreditScore": 734
+  },
+  {
+    "CustomerID": 75761,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 58,
+    "MonthlySalary": 13024.024715114529,
+    "CreditScore": 684
+  },
+  {
+    "CustomerID": 58570,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 40,
+    "MonthlySalary": 14490.804462405826,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 39419,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 40,
+    "MonthlySalary": 6719.004908703475,
+    "CreditScore": 733
+  },
+  {
+    "CustomerID": 49774,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 68,
+    "MonthlySalary": 11877.568111588424,
+    "CreditScore": 655
+  },
+  {
+    "CustomerID": 43930,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 42,
+    "MonthlySalary": 13691.08036560869,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 89521,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 21,
+    "MonthlySalary": 6067.059057574324,
+    "CreditScore": 809
+  },
+  {
+    "CustomerID": 99172,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 64,
+    "MonthlySalary": 11443.293013353576,
+    "CreditScore": 516
+  },
+  {
+    "CustomerID": 74618,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 55,
+    "MonthlySalary": 14366.192646686648,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 18402,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 26,
+    "MonthlySalary": 11616.3860997077,
+    "CreditScore": 717
+  },
+  {
+    "CustomerID": 42326,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 30,
+    "MonthlySalary": 10457.883714760812,
+    "CreditScore": 500
+  },
+  {
+    "CustomerID": 50393,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 61,
+    "MonthlySalary": 9218.165681648255,
+    "CreditScore": 768
+  },
+  {
+    "CustomerID": 15203,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 52,
+    "MonthlySalary": 5051.8696983995205,
+    "CreditScore": 604
+  },
+  {
+    "CustomerID": 92928,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 33,
+    "MonthlySalary": 7205.15754936257,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 76710,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 44,
+    "MonthlySalary": 5449.846302000005,
+    "CreditScore": 767
+  },
+  {
+    "CustomerID": 59648,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 59,
+    "MonthlySalary": 4943.712969221242,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 63019,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 28,
+    "MonthlySalary": 9398.152318126376,
+    "CreditScore": 819
+  },
+  {
+    "CustomerID": 97339,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 50,
+    "MonthlySalary": 3837.832813674656,
+    "CreditScore": 655
+  },
+  {
+    "CustomerID": 38829,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 12192.57704950556,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 54052,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 56,
+    "MonthlySalary": 13486.8591610076,
+    "CreditScore": 811
+  },
+  {
+    "CustomerID": 60250,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 32,
+    "MonthlySalary": 8283.603894461265,
+    "CreditScore": 555
+  },
+  {
+    "CustomerID": 20823,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 64,
+    "MonthlySalary": 8565.277634680246,
+    "CreditScore": 820
+  },
+  {
+    "CustomerID": 54884,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 70,
+    "MonthlySalary": 7929.777056564927,
+    "CreditScore": 562
+  },
+  {
+    "CustomerID": 14416,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 10396.815265007188,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 23681,
+    "Gender": "F",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 6386.2570073952365,
+    "CreditScore": 597
+  },
+  {
+    "CustomerID": 86474,
+    "Gender": "M",
+    "City": "London",
+    "Age": 57,
+    "MonthlySalary": 14278.84324689809,
+    "CreditScore": 609
+  },
+  {
+    "CustomerID": 90435,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 24,
+    "MonthlySalary": 12295.453986179364,
+    "CreditScore": 780
+  },
+  {
+    "CustomerID": 60967,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 33,
+    "MonthlySalary": 3902.457215467647,
+    "CreditScore": 515
+  },
+  {
+    "CustomerID": 11304,
+    "Gender": "F",
+    "City": "London",
+    "Age": 20,
+    "MonthlySalary": 5480.17708637028,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 33214,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 59,
+    "MonthlySalary": 12142.464124727216,
+    "CreditScore": 732
+  },
+  {
+    "CustomerID": 91928,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 55,
+    "MonthlySalary": 7611.326005410215,
+    "CreditScore": 656
+  },
+  {
+    "CustomerID": 53890,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 71,
+    "MonthlySalary": 12675.150672928472,
+    "CreditScore": 664
+  },
+  {
+    "CustomerID": 56194,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 61,
+    "MonthlySalary": 14030.57525253835,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 54818,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 52,
+    "MonthlySalary": 14986.270454306374,
+    "CreditScore": 719
+  },
+  {
+    "CustomerID": 54032,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 54,
+    "MonthlySalary": 4854.390890736173,
+    "CreditScore": 613
+  },
+  {
+    "CustomerID": 31691,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 7739.578980855329,
+    "CreditScore": 705
+  },
+  {
+    "CustomerID": 23588,
+    "Gender": "M",
+    "City": "London",
+    "Age": 25,
+    "MonthlySalary": 8756.15067595715,
+    "CreditScore": 618
+  },
+  {
+    "CustomerID": 43487,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 60,
+    "MonthlySalary": 6657.096560839274,
+    "CreditScore": 624
+  },
+  {
+    "CustomerID": 42794,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 59,
+    "MonthlySalary": 9508.054599778809,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 59570,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 7336.795864668269,
+    "CreditScore": 609
+  },
+  {
+    "CustomerID": 30392,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 70,
+    "MonthlySalary": 5534.781468934885,
+    "CreditScore": 540
+  },
+  {
+    "CustomerID": 63059,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 21,
+    "MonthlySalary": 14352.65698072285,
+    "CreditScore": 790
+  },
+  {
+    "CustomerID": 85351,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 36,
+    "MonthlySalary": 10684.841030398176,
+    "CreditScore": 569
+  },
+  {
+    "CustomerID": 74998,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 63,
+    "MonthlySalary": 4955.099040581788,
+    "CreditScore": 850
+  },
+  {
+    "CustomerID": 43599,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 32,
+    "MonthlySalary": 10542.01585286542,
+    "CreditScore": 596
+  },
+  {
+    "CustomerID": 90392,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 47,
+    "MonthlySalary": 3079.176414217556,
+    "CreditScore": 583
+  },
+  {
+    "CustomerID": 15009,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 45,
+    "MonthlySalary": 13054.338280618616,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 81153,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 65,
+    "MonthlySalary": 13158.175783764797,
+    "CreditScore": 794
+  },
+  {
+    "CustomerID": 95691,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 72,
+    "MonthlySalary": 13957.56635836521,
+    "CreditScore": 605
+  },
+  {
+    "CustomerID": 19227,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 72,
+    "MonthlySalary": 4544.449106862531,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 99614,
+    "Gender": "F",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 3323.441951302761,
+    "CreditScore": 836
+  },
+  {
+    "CustomerID": 90328,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 74,
+    "MonthlySalary": 14343.2325815088,
+    "CreditScore": 846
+  },
+  {
+    "CustomerID": 81445,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 23,
+    "MonthlySalary": 12128.79693477205,
+    "CreditScore": 673
+  },
+  {
+    "CustomerID": 82877,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 26,
+    "MonthlySalary": 4575.265112206724,
+    "CreditScore": 753
+  },
+  {
+    "CustomerID": 36890,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 46,
+    "MonthlySalary": 7011.301706601547,
+    "CreditScore": 645
+  },
+  {
+    "CustomerID": 83395,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 28,
+    "MonthlySalary": 9049.101713746752,
+    "CreditScore": 842
+  },
+  {
+    "CustomerID": 46872,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 40,
+    "MonthlySalary": 12699.062029847766,
+    "CreditScore": 532
+  },
+  {
+    "CustomerID": 47797,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 9358.690689043644,
+    "CreditScore": 735
+  },
+  {
+    "CustomerID": 92886,
+    "Gender": "M",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 8278.79691422097,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 80917,
+    "Gender": "O",
+    "City": "London",
+    "Age": 62,
+    "MonthlySalary": 12938.078229572311,
+    "CreditScore": 549
+  },
+  {
+    "CustomerID": 14162,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 41,
+    "MonthlySalary": 10596.835892000348,
+    "CreditScore": 786
+  },
+  {
+    "CustomerID": 36826,
+    "Gender": "O",
+    "City": "London",
+    "Age": 60,
+    "MonthlySalary": 4312.615262883834,
+    "CreditScore": 812
+  },
+  {
+    "CustomerID": 84681,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 29,
+    "MonthlySalary": 8477.307726180126,
+    "CreditScore": 653
+  },
+  {
+    "CustomerID": 56931,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 51,
+    "MonthlySalary": 9304.088079848636,
+    "CreditScore": 576
+  },
+  {
+    "CustomerID": 44224,
+    "Gender": "F",
+    "City": "London",
+    "Age": 38,
+    "MonthlySalary": 13695.582085936876,
+    "CreditScore": 588
+  },
+  {
+    "CustomerID": 11063,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 44,
+    "MonthlySalary": 8596.429094199839,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 59684,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 20,
+    "MonthlySalary": 3266.415938839845,
+    "CreditScore": 630
+  },
+  {
+    "CustomerID": 22232,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 38,
+    "MonthlySalary": 13067.052647306584,
+    "CreditScore": 756
+  },
+  {
+    "CustomerID": 58718,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 23,
+    "MonthlySalary": 11648.25974866667,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 51191,
+    "Gender": "O",
+    "City": "London",
+    "Age": 29,
+    "MonthlySalary": 4872.449462544936,
+    "CreditScore": 505
+  },
+  {
+    "CustomerID": 25798,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 43,
+    "MonthlySalary": 11742.593614717236,
+    "CreditScore": 612
+  },
+  {
+    "CustomerID": 19304,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 26,
+    "MonthlySalary": 6268.2975886558725,
+    "CreditScore": 815
+  },
+  {
+    "CustomerID": 67227,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 58,
+    "MonthlySalary": 4988.12265262719,
+    "CreditScore": 619
+  },
+  {
+    "CustomerID": 88616,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 45,
+    "MonthlySalary": 8784.491900216206,
+    "CreditScore": 753
+  },
+  {
+    "CustomerID": 37997,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 48,
+    "MonthlySalary": 8153.42816323709,
+    "CreditScore": 715
+  },
+  {
+    "CustomerID": 99091,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 59,
+    "MonthlySalary": 12525.17446058469,
+    "CreditScore": 815
+  },
+  {
+    "CustomerID": 79030,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 33,
+    "MonthlySalary": 7176.590740710039,
+    "CreditScore": 614
+  },
+  {
+    "CustomerID": 68552,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 74,
+    "MonthlySalary": 3809.187255784833,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 34224,
+    "Gender": "M",
+    "City": "London",
+    "Age": 26,
+    "MonthlySalary": 9376.740492808627,
+    "CreditScore": 578
+  },
+  {
+    "CustomerID": 44688,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 36,
+    "MonthlySalary": 10357.156182234732,
+    "CreditScore": 796
+  },
+  {
+    "CustomerID": 13287,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 33,
+    "MonthlySalary": 11422.485903196131,
+    "CreditScore": 749
+  },
+  {
+    "CustomerID": 35918,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 40,
+    "MonthlySalary": 10720.406989912735,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 87028,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 45,
+    "MonthlySalary": 11749.591047716996,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 45895,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 28,
+    "MonthlySalary": 14733.600688456483,
+    "CreditScore": 524
+  },
+  {
+    "CustomerID": 74079,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 32,
+    "MonthlySalary": 9509.887837074595,
+    "CreditScore": 827
+  },
+  {
+    "CustomerID": 26186,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 74,
+    "MonthlySalary": 6254.672999037038,
+    "CreditScore": 514
+  },
+  {
+    "CustomerID": 62697,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 43,
+    "MonthlySalary": 12502.403983391932,
+    "CreditScore": 566
+  },
+  {
+    "CustomerID": 45492,
+    "Gender": "O",
+    "City": "London",
+    "Age": 52,
+    "MonthlySalary": 8948.394637622852,
+    "CreditScore": 603
+  },
+  {
+    "CustomerID": 80667,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 66,
+    "MonthlySalary": 4428.281383563699,
+    "CreditScore": 555
+  },
+  {
+    "CustomerID": 42181,
+    "Gender": "M",
+    "City": "London",
+    "Age": 71,
+    "MonthlySalary": 14998.907853694109,
+    "CreditScore": 587
+  },
+  {
+    "CustomerID": 75428,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 31,
+    "MonthlySalary": 12243.036447807346,
+    "CreditScore": 789
+  },
+  {
+    "CustomerID": 82917,
+    "Gender": "F",
+    "City": "London",
+    "Age": 72,
+    "MonthlySalary": 4420.900955749263,
+    "CreditScore": 847
+  },
+  {
+    "CustomerID": 76632,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 66,
+    "MonthlySalary": 6383.666424045199,
+    "CreditScore": 670
+  },
+  {
+    "CustomerID": 10821,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 63,
+    "MonthlySalary": 11738.015079182624,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 58451,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 36,
+    "MonthlySalary": 11030.572029381408,
+    "CreditScore": 667
+  },
+  {
+    "CustomerID": 46660,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 63,
+    "MonthlySalary": 9500.215239096138,
+    "CreditScore": 640
+  },
+  {
+    "CustomerID": 10518,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 25,
+    "MonthlySalary": 13091.400298038396,
+    "CreditScore": 574
+  },
+  {
+    "CustomerID": 57529,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 34,
+    "MonthlySalary": 6440.476845902661,
+    "CreditScore": 537
+  },
+  {
+    "CustomerID": 11952,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 62,
+    "MonthlySalary": 6192.53496852056,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 80847,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 3279.992900277414,
+    "CreditScore": 790
+  },
+  {
+    "CustomerID": 76498,
+    "Gender": "M",
+    "City": "London",
+    "Age": 56,
+    "MonthlySalary": 6427.408774467439,
+    "CreditScore": 759
+  },
+  {
+    "CustomerID": 59582,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 20,
+    "MonthlySalary": 5646.667664743467,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 79464,
+    "Gender": "O",
+    "City": "London",
+    "Age": 64,
+    "MonthlySalary": 10662.216281630095,
+    "CreditScore": 711
+  },
+  {
+    "CustomerID": 39668,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 32,
+    "MonthlySalary": 9130.983080212674,
+    "CreditScore": 738
+  },
+  {
+    "CustomerID": 94252,
+    "Gender": "M",
+    "City": "London",
+    "Age": 69,
+    "MonthlySalary": 14773.84271577826,
+    "CreditScore": 597
+  },
+  {
+    "CustomerID": 90205,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 59,
+    "MonthlySalary": 14829.951913274364,
+    "CreditScore": 768
+  },
+  {
+    "CustomerID": 42925,
+    "Gender": "M",
+    "City": "London",
+    "Age": 23,
+    "MonthlySalary": 12964.393521114584,
+    "CreditScore": 739
+  },
+  {
+    "CustomerID": 85244,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 56,
+    "MonthlySalary": 11322.535158029365,
+    "CreditScore": 849
+  },
+  {
+    "CustomerID": 45130,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 11080.05579317777,
+    "CreditScore": 726
+  },
+  {
+    "CustomerID": 60768,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 56,
+    "MonthlySalary": 10386.130987622388,
+    "CreditScore": 575
+  },
+  {
+    "CustomerID": 38000,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 35,
+    "MonthlySalary": 4949.330539640702,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 95750,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 64,
+    "MonthlySalary": 10329.064296037115,
+    "CreditScore": 520
+  },
+  {
+    "CustomerID": 71256,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 48,
+    "MonthlySalary": 4321.11533894036,
+    "CreditScore": 667
+  },
+  {
+    "CustomerID": 67726,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 74,
+    "MonthlySalary": 6190.6846482877845,
+    "CreditScore": 837
+  },
+  {
+    "CustomerID": 78077,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 38,
+    "MonthlySalary": 5667.548117335039,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 18666,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 37,
+    "MonthlySalary": 5724.631908437548,
+    "CreditScore": 500
+  },
+  {
+    "CustomerID": 11627,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 69,
+    "MonthlySalary": 4047.5875584962105,
+    "CreditScore": 814
+  },
+  {
+    "CustomerID": 46702,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 37,
+    "MonthlySalary": 14711.581082311566,
+    "CreditScore": 780
+  },
+  {
+    "CustomerID": 29575,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 33,
+    "MonthlySalary": 12167.883643842855,
+    "CreditScore": 761
+  },
+  {
+    "CustomerID": 48060,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 37,
+    "MonthlySalary": 3547.3015928003947,
+    "CreditScore": 684
+  },
+  {
+    "CustomerID": 49839,
+    "Gender": "O",
+    "City": "London",
+    "Age": 53,
+    "MonthlySalary": 6911.719382008043,
+    "CreditScore": 716
+  },
+  {
+    "CustomerID": 31377,
+    "Gender": "F",
+    "City": "London",
+    "Age": 37,
+    "MonthlySalary": 7960.277390732406,
+    "CreditScore": 843
+  },
+  {
+    "CustomerID": 52424,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 14280.078052903598,
+    "CreditScore": 655
+  },
+  {
+    "CustomerID": 97172,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 46,
+    "MonthlySalary": 5122.082784465125,
+    "CreditScore": 671
+  },
+  {
+    "CustomerID": 52051,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 54,
+    "MonthlySalary": 9031.763554244875,
+    "CreditScore": 780
+  },
+  {
+    "CustomerID": 95583,
+    "Gender": "F",
+    "City": "London",
+    "Age": 32,
+    "MonthlySalary": 14052.915073188871,
+    "CreditScore": 831
+  },
+  {
+    "CustomerID": 34400,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 65,
+    "MonthlySalary": 5369.545867394047,
+    "CreditScore": 524
+  },
+  {
+    "CustomerID": 55541,
+    "Gender": "O",
+    "City": "London",
+    "Age": 69,
+    "MonthlySalary": 5320.606954134513,
+    "CreditScore": 537
+  },
+  {
+    "CustomerID": 99607,
+    "Gender": "F",
+    "City": "London",
+    "Age": 72,
+    "MonthlySalary": 11456.528604060575,
+    "CreditScore": 618
+  },
+  {
+    "CustomerID": 52341,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 40,
+    "MonthlySalary": 10402.030015947985,
+    "CreditScore": 742
+  },
+  {
+    "CustomerID": 24829,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 28,
+    "MonthlySalary": 5325.3887124427965,
+    "CreditScore": 747
+  },
+  {
+    "CustomerID": 74151,
+    "Gender": "F",
+    "City": "London",
+    "Age": 48,
+    "MonthlySalary": 11439.186620972703,
+    "CreditScore": 828
+  },
+  {
+    "CustomerID": 31159,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 37,
+    "MonthlySalary": 12437.805274704144,
+    "CreditScore": 779
+  },
+  {
+    "CustomerID": 96939,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 3615.796479514089,
+    "CreditScore": 629
+  },
+  {
+    "CustomerID": 48994,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 4673.72765189303,
+    "CreditScore": 591
+  },
+  {
+    "CustomerID": 30446,
+    "Gender": "O",
+    "City": "London",
+    "Age": 49,
+    "MonthlySalary": 8531.53773437052,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 69491,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 8836.903293945761,
+    "CreditScore": 824
+  },
+  {
+    "CustomerID": 20941,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 41,
+    "MonthlySalary": 13748.782274421024,
+    "CreditScore": 679
+  },
+  {
+    "CustomerID": 97863,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 27,
+    "MonthlySalary": 3629.1378507051454,
+    "CreditScore": 558
+  },
+  {
+    "CustomerID": 73397,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 70,
+    "MonthlySalary": 6500.221057354781,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 81611,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 61,
+    "MonthlySalary": 9516.676101360448,
+    "CreditScore": 608
+  },
+  {
+    "CustomerID": 48618,
+    "Gender": "O",
+    "City": "London",
+    "Age": 50,
+    "MonthlySalary": 13124.731382270036,
+    "CreditScore": 699
+  },
+  {
+    "CustomerID": 40302,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 49,
+    "MonthlySalary": 11585.279596033415,
+    "CreditScore": 755
+  },
+  {
+    "CustomerID": 30112,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 64,
+    "MonthlySalary": 14244.65714570827,
+    "CreditScore": 819
+  },
+  {
+    "CustomerID": 64253,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 49,
+    "MonthlySalary": 12210.328691039877,
+    "CreditScore": 599
+  },
+  {
+    "CustomerID": 15080,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 33,
+    "MonthlySalary": 3449.0553615736144,
+    "CreditScore": 770
+  },
+  {
+    "CustomerID": 35074,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 58,
+    "MonthlySalary": 6938.9537479431965,
+    "CreditScore": 702
+  },
+  {
+    "CustomerID": 44246,
+    "Gender": "O",
+    "City": "London",
+    "Age": 24,
+    "MonthlySalary": 7256.002135653744,
+    "CreditScore": 811
+  },
+  {
+    "CustomerID": 76545,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 27,
+    "MonthlySalary": 7039.31421038213,
+    "CreditScore": 639
+  },
+  {
+    "CustomerID": 55701,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 63,
+    "MonthlySalary": 13118.494498124532,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 17000,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 59,
+    "MonthlySalary": 9753.734512461317,
+    "CreditScore": 540
+  },
+  {
+    "CustomerID": 35236,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 22,
+    "MonthlySalary": 9570.048917108885,
+    "CreditScore": 539
+  },
+  {
+    "CustomerID": 64063,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 34,
+    "MonthlySalary": 14519.615452571976,
+    "CreditScore": 820
+  },
+  {
+    "CustomerID": 19162,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 63,
+    "MonthlySalary": 6084.668284021632,
+    "CreditScore": 651
+  },
+  {
+    "CustomerID": 56925,
+    "Gender": "M",
+    "City": "London",
+    "Age": 27,
+    "MonthlySalary": 14923.355315347892,
+    "CreditScore": 753
+  },
+  {
+    "CustomerID": 97576,
+    "Gender": "F",
+    "City": "London",
+    "Age": 26,
+    "MonthlySalary": 13915.353801664836,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 57974,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 22,
+    "MonthlySalary": 4882.298387142096,
+    "CreditScore": 500
+  },
+  {
+    "CustomerID": 84029,
+    "Gender": "F",
+    "City": "London",
+    "Age": 71,
+    "MonthlySalary": 10604.954537528212,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 82285,
+    "Gender": "O",
+    "City": "London",
+    "Age": 43,
+    "MonthlySalary": 6381.240342245457,
+    "CreditScore": 760
+  },
+  {
+    "CustomerID": 16928,
+    "Gender": "O",
+    "City": "London",
+    "Age": 56,
+    "MonthlySalary": 13098.692235155302,
+    "CreditScore": 731
+  },
+  {
+    "CustomerID": 96370,
+    "Gender": "O",
+    "City": "London",
+    "Age": 60,
+    "MonthlySalary": 12963.84227236709,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 31075,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 7178.297333170794,
+    "CreditScore": 767
+  },
+  {
+    "CustomerID": 52460,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 48,
+    "MonthlySalary": 13990.252092706523,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 36233,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 14189.67851530441,
+    "CreditScore": 549
+  },
+  {
+    "CustomerID": 94171,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 22,
+    "MonthlySalary": 3669.658864728041,
+    "CreditScore": 617
+  },
+  {
+    "CustomerID": 52764,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 23,
+    "MonthlySalary": 14969.381581912488,
+    "CreditScore": 587
+  },
+  {
+    "CustomerID": 70694,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 49,
+    "MonthlySalary": 8570.4270675291,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 26543,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 11873.008261754829,
+    "CreditScore": 531
+  },
+  {
+    "CustomerID": 88105,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 32,
+    "MonthlySalary": 5437.056376343669,
+    "CreditScore": 527
+  },
+  {
+    "CustomerID": 57949,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 46,
+    "MonthlySalary": 5594.428921057163,
+    "CreditScore": 810
+  },
+  {
+    "CustomerID": 33350,
+    "Gender": "O",
+    "City": "London",
+    "Age": 24,
+    "MonthlySalary": 11088.30237924786,
+    "CreditScore": 659
+  },
+  {
+    "CustomerID": 13557,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 45,
+    "MonthlySalary": 8234.612458447327,
+    "CreditScore": 794
+  },
+  {
+    "CustomerID": 83560,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 53,
+    "MonthlySalary": 13261.599379500933,
+    "CreditScore": 848
+  },
+  {
+    "CustomerID": 98111,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 46,
+    "MonthlySalary": 3011.8646234901366,
+    "CreditScore": 683
+  },
+  {
+    "CustomerID": 52444,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 32,
+    "MonthlySalary": 3544.8530826092588,
+    "CreditScore": 576
+  },
+  {
+    "CustomerID": 43377,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 11598.793746681007,
+    "CreditScore": 596
+  },
+  {
+    "CustomerID": 39861,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 39,
+    "MonthlySalary": 11307.849103339631,
+    "CreditScore": 667
+  },
+  {
+    "CustomerID": 76959,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 33,
+    "MonthlySalary": 3712.361552830712,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 67673,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 59,
+    "MonthlySalary": 14884.837522254218,
+    "CreditScore": 847
+  },
+  {
+    "CustomerID": 86091,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 75,
+    "MonthlySalary": 5150.510412687544,
+    "CreditScore": 725
+  },
+  {
+    "CustomerID": 44599,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 48,
+    "MonthlySalary": 6476.764538946581,
+    "CreditScore": 765
+  },
+  {
+    "CustomerID": 49585,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 14886.76202769374,
+    "CreditScore": 800
+  },
+  {
+    "CustomerID": 96626,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 28,
+    "MonthlySalary": 10974.772821353965,
+    "CreditScore": 810
+  },
+  {
+    "CustomerID": 21013,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 75,
+    "MonthlySalary": 4229.746489743841,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 17012,
+    "Gender": "O",
+    "City": "London",
+    "Age": 64,
+    "MonthlySalary": 12321.9493246878,
+    "CreditScore": 600
+  },
+  {
+    "CustomerID": 46942,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 31,
+    "MonthlySalary": 11128.57357059396,
+    "CreditScore": 798
+  },
+  {
+    "CustomerID": 92488,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 3943.034663083033,
+    "CreditScore": 845
+  },
+  {
+    "CustomerID": 48940,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 24,
+    "MonthlySalary": 12298.337950659625,
+    "CreditScore": 812
+  },
+  {
+    "CustomerID": 97952,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 47,
+    "MonthlySalary": 8557.35662886725,
+    "CreditScore": 553
+  },
+  {
+    "CustomerID": 80684,
+    "Gender": "O",
+    "City": "London",
+    "Age": 47,
+    "MonthlySalary": 10189.192875053326,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 93795,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 71,
+    "MonthlySalary": 7754.021100088186,
+    "CreditScore": 547
+  },
+  {
+    "CustomerID": 48561,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 59,
+    "MonthlySalary": 14066.660429460071,
+    "CreditScore": 755
+  },
+  {
+    "CustomerID": 11446,
+    "Gender": "M",
+    "City": "London",
+    "Age": 21,
+    "MonthlySalary": 5772.111073525593,
+    "CreditScore": 655
+  },
+  {
+    "CustomerID": 92548,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 11393.978144929935,
+    "CreditScore": 561
+  },
+  {
+    "CustomerID": 85535,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 21,
+    "MonthlySalary": 7930.48057183241,
+    "CreditScore": 666
+  },
+  {
+    "CustomerID": 46106,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 50,
+    "MonthlySalary": 7986.044871910524,
+    "CreditScore": 636
+  },
+  {
+    "CustomerID": 49452,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 27,
+    "MonthlySalary": 13945.726549698918,
+    "CreditScore": 638
+  },
+  {
+    "CustomerID": 25171,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 74,
+    "MonthlySalary": 7100.7812235836345,
+    "CreditScore": 618
+  },
+  {
+    "CustomerID": 14956,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 21,
+    "MonthlySalary": 4808.990147471842,
+    "CreditScore": 727
+  },
+  {
+    "CustomerID": 83498,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 32,
+    "MonthlySalary": 3315.957869588387,
+    "CreditScore": 750
+  },
+  {
+    "CustomerID": 59746,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 5881.68053814415,
+    "CreditScore": 709
+  },
+  {
+    "CustomerID": 21823,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 33,
+    "MonthlySalary": 10725.10854578597,
+    "CreditScore": 615
+  },
+  {
+    "CustomerID": 95703,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 26,
+    "MonthlySalary": 12969.544423146895,
+    "CreditScore": 521
+  },
+  {
+    "CustomerID": 53916,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 59,
+    "MonthlySalary": 10766.264061667696,
+    "CreditScore": 567
+  },
+  {
+    "CustomerID": 42133,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 66,
+    "MonthlySalary": 9938.362131241944,
+    "CreditScore": 607
+  },
+  {
+    "CustomerID": 34211,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 74,
+    "MonthlySalary": 6884.749541449075,
+    "CreditScore": 842
+  },
+  {
+    "CustomerID": 32630,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 39,
+    "MonthlySalary": 5217.477376336291,
+    "CreditScore": 667
+  },
+  {
+    "CustomerID": 60900,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 12705.941766013497,
+    "CreditScore": 772
+  },
+  {
+    "CustomerID": 13551,
+    "Gender": "F",
+    "City": "London",
+    "Age": 64,
+    "MonthlySalary": 12693.384433315478,
+    "CreditScore": 713
+  },
+  {
+    "CustomerID": 41388,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 58,
+    "MonthlySalary": 5731.428958804758,
+    "CreditScore": 536
+  },
+  {
+    "CustomerID": 32215,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 49,
+    "MonthlySalary": 6304.052073470915,
+    "CreditScore": 787
+  },
+  {
+    "CustomerID": 75336,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 65,
+    "MonthlySalary": 7653.419827589521,
+    "CreditScore": 825
+  },
+  {
+    "CustomerID": 36243,
+    "Gender": "M",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 9141.844599866768,
+    "CreditScore": 810
+  },
+  {
+    "CustomerID": 56227,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 22,
+    "MonthlySalary": 6806.550419088426,
+    "CreditScore": 693
+  },
+  {
+    "CustomerID": 15050,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 20,
+    "MonthlySalary": 3591.9447948979423,
+    "CreditScore": 571
+  },
+  {
+    "CustomerID": 23130,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 63,
+    "MonthlySalary": 14302.637153886652,
+    "CreditScore": 844
+  },
+  {
+    "CustomerID": 36938,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 60,
+    "MonthlySalary": 9055.284280717551,
+    "CreditScore": 535
+  },
+  {
+    "CustomerID": 20633,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 73,
+    "MonthlySalary": 7381.583193451926,
+    "CreditScore": 730
+  },
+  {
+    "CustomerID": 81995,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 38,
+    "MonthlySalary": 4189.328688458743,
+    "CreditScore": 799
+  },
+  {
+    "CustomerID": 55246,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 31,
+    "MonthlySalary": 11280.072466892312,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 35464,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 60,
+    "MonthlySalary": 3397.591224172818,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 82849,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 39,
+    "MonthlySalary": 5737.61009681274,
+    "CreditScore": 646
+  },
+  {
+    "CustomerID": 72257,
+    "Gender": "O",
+    "City": "London",
+    "Age": 24,
+    "MonthlySalary": 6049.453775906793,
+    "CreditScore": 511
+  },
+  {
+    "CustomerID": 30412,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 7914.912523186539,
+    "CreditScore": 628
+  },
+  {
+    "CustomerID": 91511,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 54,
+    "MonthlySalary": 3827.923179629842,
+    "CreditScore": 642
+  },
+  {
+    "CustomerID": 14606,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 69,
+    "MonthlySalary": 12634.544947141076,
+    "CreditScore": 670
+  },
+  {
+    "CustomerID": 73207,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 11953.205666620344,
+    "CreditScore": 733
+  },
+  {
+    "CustomerID": 69203,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 46,
+    "MonthlySalary": 8180.149797170758,
+    "CreditScore": 811
+  },
+  {
+    "CustomerID": 46073,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 59,
+    "MonthlySalary": 6904.760275014369,
+    "CreditScore": 578
+  },
+  {
+    "CustomerID": 95481,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 45,
+    "MonthlySalary": 3313.4243294503813,
+    "CreditScore": 678
+  },
+  {
+    "CustomerID": 26306,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 35,
+    "MonthlySalary": 14133.97260360709,
+    "CreditScore": 801
+  },
+  {
+    "CustomerID": 63905,
+    "Gender": "F",
+    "City": "London",
+    "Age": 46,
+    "MonthlySalary": 8814.242187777149,
+    "CreditScore": 574
+  },
+  {
+    "CustomerID": 29682,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 56,
+    "MonthlySalary": 6150.643224127984,
+    "CreditScore": 565
+  },
+  {
+    "CustomerID": 85326,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 55,
+    "MonthlySalary": 12419.67828542382,
+    "CreditScore": 673
+  },
+  {
+    "CustomerID": 22900,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 68,
+    "MonthlySalary": 14358.270029886728,
+    "CreditScore": 778
+  },
+  {
+    "CustomerID": 26957,
+    "Gender": "F",
+    "City": "London",
+    "Age": 34,
+    "MonthlySalary": 9302.802107218611,
+    "CreditScore": 503
+  },
+  {
+    "CustomerID": 11706,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 72,
+    "MonthlySalary": 5891.753980120615,
+    "CreditScore": 696
+  },
+  {
+    "CustomerID": 14173,
+    "Gender": "O",
+    "City": "London",
+    "Age": 37,
+    "MonthlySalary": 11207.290492900898,
+    "CreditScore": 673
+  },
+  {
+    "CustomerID": 82362,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 45,
+    "MonthlySalary": 13717.281227228132,
+    "CreditScore": 667
+  },
+  {
+    "CustomerID": 74406,
+    "Gender": "M",
+    "City": "London",
+    "Age": 55,
+    "MonthlySalary": 5098.319863191187,
+    "CreditScore": 774
+  },
+  {
+    "CustomerID": 75013,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 61,
+    "MonthlySalary": 4911.339167244559,
+    "CreditScore": 619
+  },
+  {
+    "CustomerID": 11535,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 38,
+    "MonthlySalary": 4468.817821998302,
+    "CreditScore": 690
+  },
+  {
+    "CustomerID": 79917,
+    "Gender": "M",
+    "City": "London",
+    "Age": 67,
+    "MonthlySalary": 4839.296511353527,
+    "CreditScore": 533
+  },
+  {
+    "CustomerID": 94615,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 67,
+    "MonthlySalary": 6443.421258052284,
+    "CreditScore": 688
+  },
+  {
+    "CustomerID": 91931,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 6004.444979789709,
+    "CreditScore": 798
+  },
+  {
+    "CustomerID": 73706,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 69,
+    "MonthlySalary": 13834.198357456671,
+    "CreditScore": 630
+  },
+  {
+    "CustomerID": 86542,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 24,
+    "MonthlySalary": 10287.335263228142,
+    "CreditScore": 510
+  },
+  {
+    "CustomerID": 70752,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 12096.719564307072,
+    "CreditScore": 571
+  },
+  {
+    "CustomerID": 33776,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 14260.44045359486,
+    "CreditScore": 807
+  },
+  {
+    "CustomerID": 60283,
+    "Gender": "M",
+    "City": "London",
+    "Age": 42,
+    "MonthlySalary": 6315.626319620822,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 12473,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 9233.189871083538,
+    "CreditScore": 684
+  },
+  {
+    "CustomerID": 76017,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 61,
+    "MonthlySalary": 13736.173635915622,
+    "CreditScore": 721
+  },
+  {
+    "CustomerID": 62861,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 69,
+    "MonthlySalary": 4463.030779294606,
+    "CreditScore": 676
+  },
+  {
+    "CustomerID": 25573,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 68,
+    "MonthlySalary": 14219.97552484592,
+    "CreditScore": 818
+  },
+  {
+    "CustomerID": 34350,
+    "Gender": "O",
+    "City": "London",
+    "Age": 58,
+    "MonthlySalary": 8017.0649753118,
+    "CreditScore": 773
+  },
+  {
+    "CustomerID": 46474,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 27,
+    "MonthlySalary": 12159.22794705687,
+    "CreditScore": 744
+  },
+  {
+    "CustomerID": 38536,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 68,
+    "MonthlySalary": 4810.209044641195,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 35413,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 42,
+    "MonthlySalary": 6239.598271907702,
+    "CreditScore": 740
+  },
+  {
+    "CustomerID": 11764,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 36,
+    "MonthlySalary": 14295.03051670149,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 49112,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 52,
+    "MonthlySalary": 14702.286954890586,
+    "CreditScore": 827
+  },
+  {
+    "CustomerID": 12838,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 35,
+    "MonthlySalary": 13679.0730093187,
+    "CreditScore": 595
+  },
+  {
+    "CustomerID": 59807,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 28,
+    "MonthlySalary": 7043.282355042902,
+    "CreditScore": 723
+  },
+  {
+    "CustomerID": 13912,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 50,
+    "MonthlySalary": 9794.853515871258,
+    "CreditScore": 598
+  },
+  {
+    "CustomerID": 41605,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 62,
+    "MonthlySalary": 10551.042102950058,
+    "CreditScore": 828
+  },
+  {
+    "CustomerID": 48577,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 27,
+    "MonthlySalary": 11422.606952426033,
+    "CreditScore": 507
+  },
+  {
+    "CustomerID": 39240,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 22,
+    "MonthlySalary": 14805.299005413584,
+    "CreditScore": 556
+  },
+  {
+    "CustomerID": 60631,
+    "Gender": "O",
+    "City": "London",
+    "Age": 29,
+    "MonthlySalary": 13171.489890012244,
+    "CreditScore": 550
+  },
+  {
+    "CustomerID": 59221,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 20,
+    "MonthlySalary": 11937.914200123398,
+    "CreditScore": 516
+  },
+  {
+    "CustomerID": 20031,
+    "Gender": "F",
+    "City": "London",
+    "Age": 31,
+    "MonthlySalary": 11042.241741580943,
+    "CreditScore": 553
+  },
+  {
+    "CustomerID": 33820,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 31,
+    "MonthlySalary": 8330.693598640475,
+    "CreditScore": 628
+  },
+  {
+    "CustomerID": 47924,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 44,
+    "MonthlySalary": 6185.27096697709,
+    "CreditScore": 719
+  },
+  {
+    "CustomerID": 78849,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 47,
+    "MonthlySalary": 12636.46995179408,
+    "CreditScore": 587
+  },
+  {
+    "CustomerID": 36710,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 25,
+    "MonthlySalary": 12762.519519856438,
+    "CreditScore": 545
+  },
+  {
+    "CustomerID": 84421,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 49,
+    "MonthlySalary": 3923.3729393616,
+    "CreditScore": 590
+  },
+  {
+    "CustomerID": 27282,
+    "Gender": "O",
+    "City": "London",
+    "Age": 35,
+    "MonthlySalary": 4356.54044228245,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 39983,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 58,
+    "MonthlySalary": 3956.1954175107194,
+    "CreditScore": 763
+  },
+  {
+    "CustomerID": 21604,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 42,
+    "MonthlySalary": 13990.393512337116,
+    "CreditScore": 700
+  },
+  {
+    "CustomerID": 80395,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 48,
+    "MonthlySalary": 7221.670189624222,
+    "CreditScore": 759
+  },
+  {
+    "CustomerID": 67810,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 59,
+    "MonthlySalary": 3664.208328877098,
+    "CreditScore": 502
+  },
+  {
+    "CustomerID": 65862,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 55,
+    "MonthlySalary": 12984.934961517292,
+    "CreditScore": 722
+  },
+  {
+    "CustomerID": 75314,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 55,
+    "MonthlySalary": 8794.050380808716,
+    "CreditScore": 589
+  },
+  {
+    "CustomerID": 77461,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 27,
+    "MonthlySalary": 7006.291724942732,
+    "CreditScore": 596
+  },
+  {
+    "CustomerID": 30607,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 23,
+    "MonthlySalary": 13411.473983122563,
+    "CreditScore": 583
+  },
+  {
+    "CustomerID": 83523,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 42,
+    "MonthlySalary": 10695.610056425545,
+    "CreditScore": 641
+  },
+  {
+    "CustomerID": 40848,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 13274.140815034138,
+    "CreditScore": 748
+  },
+  {
+    "CustomerID": 88304,
+    "Gender": "F",
+    "City": "London",
+    "Age": 48,
+    "MonthlySalary": 6170.053052788015,
+    "CreditScore": 714
+  },
+  {
+    "CustomerID": 55279,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 25,
+    "MonthlySalary": 10082.586871709069,
+    "CreditScore": 697
+  },
+  {
+    "CustomerID": 80693,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 64,
+    "MonthlySalary": 14437.009559865024,
+    "CreditScore": 734
+  },
+  {
+    "CustomerID": 56385,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 61,
+    "MonthlySalary": 7026.7044465037925,
+    "CreditScore": 794
+  },
+  {
+    "CustomerID": 24436,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 30,
+    "MonthlySalary": 5208.4921567834335,
+    "CreditScore": 614
+  },
+  {
+    "CustomerID": 78673,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 38,
+    "MonthlySalary": 7711.501174313337,
+    "CreditScore": 716
+  },
+  {
+    "CustomerID": 97376,
+    "Gender": "F",
+    "City": "London",
+    "Age": 54,
+    "MonthlySalary": 10379.440914751172,
+    "CreditScore": 663
+  },
+  {
+    "CustomerID": 27048,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 49,
+    "MonthlySalary": 10373.826060410003,
+    "CreditScore": 643
+  },
+  {
+    "CustomerID": 21476,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 22,
+    "MonthlySalary": 10329.803472095966,
+    "CreditScore": 639
+  },
+  {
+    "CustomerID": 64211,
+    "Gender": "O",
+    "City": "London",
+    "Age": 64,
+    "MonthlySalary": 9637.131208735464,
+    "CreditScore": 822
+  },
+  {
+    "CustomerID": 96581,
+    "Gender": "M",
+    "City": "London",
+    "Age": 52,
+    "MonthlySalary": 10052.0152442319,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 99573,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 29,
+    "MonthlySalary": 4423.11858464144,
+    "CreditScore": 747
+  },
+  {
+    "CustomerID": 39284,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 45,
+    "MonthlySalary": 5633.919971120991,
+    "CreditScore": 839
+  },
+  {
+    "CustomerID": 54117,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 73,
+    "MonthlySalary": 14295.796266691204,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 23421,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 43,
+    "MonthlySalary": 3722.065331866397,
+    "CreditScore": 802
+  },
+  {
+    "CustomerID": 12381,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 38,
+    "MonthlySalary": 7430.505501401792,
+    "CreditScore": 698
+  },
+  {
+    "CustomerID": 84723,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 70,
+    "MonthlySalary": 13258.134851851506,
+    "CreditScore": 824
+  },
+  {
+    "CustomerID": 77257,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 75,
+    "MonthlySalary": 11045.321966941028,
+    "CreditScore": 755
+  },
+  {
+    "CustomerID": 53796,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 74,
+    "MonthlySalary": 10553.730654586914,
+    "CreditScore": 821
+  },
+  {
+    "CustomerID": 26726,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 71,
+    "MonthlySalary": 14254.990698927006,
+    "CreditScore": 746
+  },
+  {
+    "CustomerID": 60194,
+    "Gender": "F",
+    "City": "London",
+    "Age": 59,
+    "MonthlySalary": 3158.918515730929,
+    "CreditScore": 602
+  },
+  {
+    "CustomerID": 94927,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 73,
+    "MonthlySalary": 3680.965390437601,
+    "CreditScore": 708
+  },
+  {
+    "CustomerID": 60568,
+    "Gender": "F",
+    "City": "London",
+    "Age": 50,
+    "MonthlySalary": 9537.432143693726,
+    "CreditScore": 643
+  },
+  {
+    "CustomerID": 94526,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 53,
+    "MonthlySalary": 9156.05070096527,
+    "CreditScore": 723
+  },
+  {
+    "CustomerID": 29329,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 54,
+    "MonthlySalary": 13944.345064740552,
+    "CreditScore": 647
+  },
+  {
+    "CustomerID": 69000,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 24,
+    "MonthlySalary": 13651.493659486256,
+    "CreditScore": 826
+  },
+  {
+    "CustomerID": 42581,
+    "Gender": "M",
+    "City": "London",
+    "Age": 62,
+    "MonthlySalary": 6730.390637781509,
+    "CreditScore": 580
+  },
+  {
+    "CustomerID": 73268,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 54,
+    "MonthlySalary": 4280.143033578879,
+    "CreditScore": 614
+  },
+  {
+    "CustomerID": 14625,
+    "Gender": "O",
+    "City": "London",
+    "Age": 24,
+    "MonthlySalary": 4817.804579180403,
+    "CreditScore": 784
+  },
+  {
+    "CustomerID": 86620,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 45,
+    "MonthlySalary": 11411.70652496252,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 54621,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 26,
+    "MonthlySalary": 10798.954688586877,
+    "CreditScore": 759
+  },
+  {
+    "CustomerID": 17498,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 61,
+    "MonthlySalary": 4314.567346153543,
+    "CreditScore": 742
+  },
+  {
+    "CustomerID": 94476,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 34,
+    "MonthlySalary": 3786.886758891492,
+    "CreditScore": 781
+  },
+  {
+    "CustomerID": 66952,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 40,
+    "MonthlySalary": 7119.846759506479,
+    "CreditScore": 719
+  },
+  {
+    "CustomerID": 65880,
+    "Gender": "F",
+    "City": "London",
+    "Age": 54,
+    "MonthlySalary": 4424.200725112322,
+    "CreditScore": 731
+  },
+  {
+    "CustomerID": 51786,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 52,
+    "MonthlySalary": 4469.461572646438,
+    "CreditScore": 726
+  },
+  {
+    "CustomerID": 54184,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 48,
+    "MonthlySalary": 5324.1438277795,
+    "CreditScore": 672
+  },
+  {
+    "CustomerID": 41208,
+    "Gender": "O",
+    "City": "London",
+    "Age": 57,
+    "MonthlySalary": 14209.044487592406,
+    "CreditScore": 598
+  },
+  {
+    "CustomerID": 60018,
+    "Gender": "M",
+    "City": "London",
+    "Age": 21,
+    "MonthlySalary": 3513.5668295302057,
+    "CreditScore": 735
+  },
+  {
+    "CustomerID": 28110,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 74,
+    "MonthlySalary": 13547.430842547734,
+    "CreditScore": 603
+  },
+  {
+    "CustomerID": 70520,
+    "Gender": "M",
+    "City": "London",
+    "Age": 57,
+    "MonthlySalary": 9535.359322412944,
+    "CreditScore": 591
+  },
+  {
+    "CustomerID": 61812,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 50,
+    "MonthlySalary": 12452.241394606244,
+    "CreditScore": 813
+  },
+  {
+    "CustomerID": 79167,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 25,
+    "MonthlySalary": 12065.422990389368,
+    "CreditScore": 749
+  },
+  {
+    "CustomerID": 14541,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 55,
+    "MonthlySalary": 11416.028615438016,
+    "CreditScore": 797
+  },
+  {
+    "CustomerID": 32157,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 51,
+    "MonthlySalary": 4147.235878636278,
+    "CreditScore": 838
+  },
+  {
+    "CustomerID": 32153,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 36,
+    "MonthlySalary": 5086.922546995493,
+    "CreditScore": 791
+  },
+  {
+    "CustomerID": 88347,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 54,
+    "MonthlySalary": 14479.816299648684,
+    "CreditScore": 767
+  },
+  {
+    "CustomerID": 47842,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 52,
+    "MonthlySalary": 7698.531986020779,
+    "CreditScore": 618
+  },
+  {
+    "CustomerID": 53609,
+    "Gender": "F",
+    "City": "London",
+    "Age": 36,
+    "MonthlySalary": 3209.634418304774,
+    "CreditScore": 688
+  },
+  {
+    "CustomerID": 71731,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 59,
+    "MonthlySalary": 8256.414006029585,
+    "CreditScore": 728
+  },
+  {
+    "CustomerID": 50757,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 40,
+    "MonthlySalary": 7287.411737865522,
+    "CreditScore": 755
+  },
+  {
+    "CustomerID": 75718,
+    "Gender": "O",
+    "City": "London",
+    "Age": 40,
+    "MonthlySalary": 8582.21550299602,
+    "CreditScore": 665
+  },
+  {
+    "CustomerID": 21028,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 72,
+    "MonthlySalary": 12798.225093987032,
+    "CreditScore": 679
+  },
+  {
+    "CustomerID": 56045,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 29,
+    "MonthlySalary": 8899.403840229646,
+    "CreditScore": 633
+  },
+  {
+    "CustomerID": 46359,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 26,
+    "MonthlySalary": 8096.704767006439,
+    "CreditScore": 507
+  },
+  {
+    "CustomerID": 61521,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 24,
+    "MonthlySalary": 4471.644019402944,
+    "CreditScore": 627
+  },
+  {
+    "CustomerID": 78890,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 62,
+    "MonthlySalary": 8283.158407490893,
+    "CreditScore": 606
+  },
+  {
+    "CustomerID": 98761,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 34,
+    "MonthlySalary": 11739.63681938745,
+    "CreditScore": 827
+  },
+  {
+    "CustomerID": 27746,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 62,
+    "MonthlySalary": 5346.852291886205,
+    "CreditScore": 760
+  },
+  {
+    "CustomerID": 48343,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 47,
+    "MonthlySalary": 13717.563121260107,
+    "CreditScore": 532
+  },
+  {
+    "CustomerID": 65110,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 11812.127440926395,
+    "CreditScore": 620
+  },
+  {
+    "CustomerID": 34039,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 50,
+    "MonthlySalary": 9227.27070374258,
+    "CreditScore": 821
+  },
+  {
+    "CustomerID": 89525,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 56,
+    "MonthlySalary": 13071.378543490831,
+    "CreditScore": 813
+  },
+  {
+    "CustomerID": 25340,
+    "Gender": "M",
+    "City": "London",
+    "Age": 59,
+    "MonthlySalary": 12103.42130011611,
+    "CreditScore": 581
+  },
+  {
+    "CustomerID": 88424,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 24,
+    "MonthlySalary": 10060.266254563088,
+    "CreditScore": 651
+  },
+  {
+    "CustomerID": 12363,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 45,
+    "MonthlySalary": 8001.163138852651,
+    "CreditScore": 514
+  },
+  {
+    "CustomerID": 78640,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 54,
+    "MonthlySalary": 12246.94567372188,
+    "CreditScore": 722
+  },
+  {
+    "CustomerID": 52056,
+    "Gender": "F",
+    "City": "London",
+    "Age": 50,
+    "MonthlySalary": 8159.370334811661,
+    "CreditScore": 695
+  },
+  {
+    "CustomerID": 89784,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 3626.11946799702,
+    "CreditScore": 711
+  },
+  {
+    "CustomerID": 34087,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 59,
+    "MonthlySalary": 7649.032661773158,
+    "CreditScore": 733
+  },
+  {
+    "CustomerID": 13233,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 24,
+    "MonthlySalary": 3429.8633647400275,
+    "CreditScore": 641
+  },
+  {
+    "CustomerID": 82592,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 22,
+    "MonthlySalary": 4140.672664478451,
+    "CreditScore": 511
+  },
+  {
+    "CustomerID": 40412,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 49,
+    "MonthlySalary": 14242.432236482757,
+    "CreditScore": 529
+  },
+  {
+    "CustomerID": 58119,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 32,
+    "MonthlySalary": 9265.13729755338,
+    "CreditScore": 558
+  },
+  {
+    "CustomerID": 45876,
+    "Gender": "F",
+    "City": "London",
+    "Age": 38,
+    "MonthlySalary": 11139.241958197232,
+    "CreditScore": 668
+  },
+  {
+    "CustomerID": 24727,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 31,
+    "MonthlySalary": 5117.716373903486,
+    "CreditScore": 842
+  },
+  {
+    "CustomerID": 86225,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 35,
+    "MonthlySalary": 7985.376823428575,
+    "CreditScore": 521
+  },
+  {
+    "CustomerID": 91688,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 40,
+    "MonthlySalary": 7607.88694689655,
+    "CreditScore": 718
+  },
+  {
+    "CustomerID": 13773,
+    "Gender": "M",
+    "City": "London",
+    "Age": 74,
+    "MonthlySalary": 11737.78859123719,
+    "CreditScore": 644
+  },
+  {
+    "CustomerID": 24050,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 42,
+    "MonthlySalary": 9757.674995993855,
+    "CreditScore": 760
+  },
+  {
+    "CustomerID": 55473,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 75,
+    "MonthlySalary": 14107.621425254762,
+    "CreditScore": 797
+  },
+  {
+    "CustomerID": 70404,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 61,
+    "MonthlySalary": 10132.31717130442,
+    "CreditScore": 703
+  },
+  {
+    "CustomerID": 76953,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 54,
+    "MonthlySalary": 11702.666917262126,
+    "CreditScore": 769
+  },
+  {
+    "CustomerID": 66035,
+    "Gender": "M",
+    "City": "London",
+    "Age": 39,
+    "MonthlySalary": 4238.401066732586,
+    "CreditScore": 650
+  },
+  {
+    "CustomerID": 21125,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 22,
+    "MonthlySalary": 9506.335346001071,
+    "CreditScore": 586
+  },
+  {
+    "CustomerID": 77417,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 41,
+    "MonthlySalary": 4903.434486100527,
+    "CreditScore": 808
+  },
+  {
+    "CustomerID": 95367,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 43,
+    "MonthlySalary": 7180.431290588965,
+    "CreditScore": 736
+  },
+  {
+    "CustomerID": 84891,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 57,
+    "MonthlySalary": 8721.111776027314,
+    "CreditScore": 810
+  },
+  {
+    "CustomerID": 89948,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 26,
+    "MonthlySalary": 14514.065403410015,
+    "CreditScore": 627
+  },
+  {
+    "CustomerID": 57372,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 21,
+    "MonthlySalary": 12789.60007255988,
+    "CreditScore": 624
+  },
+  {
+    "CustomerID": 93086,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 46,
+    "MonthlySalary": 11930.210353399394,
+    "CreditScore": 646
+  },
+  {
+    "CustomerID": 45271,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 60,
+    "MonthlySalary": 7391.166660957238,
+    "CreditScore": 661
+  },
+  {
+    "CustomerID": 89456,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 47,
+    "MonthlySalary": 11202.314727010073,
+    "CreditScore": 736
+  },
+  {
+    "CustomerID": 67938,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 67,
+    "MonthlySalary": 14793.700981101529,
+    "CreditScore": 548
+  },
+  {
+    "CustomerID": 28372,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 75,
+    "MonthlySalary": 4208.265181624487,
+    "CreditScore": 698
+  },
+  {
+    "CustomerID": 45791,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 69,
+    "MonthlySalary": 13088.602720770345,
+    "CreditScore": 697
+  },
+  {
+    "CustomerID": 80987,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 40,
+    "MonthlySalary": 12951.222570353017,
+    "CreditScore": 631
+  },
+  {
+    "CustomerID": 27242,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 29,
+    "MonthlySalary": 9285.283707688875,
+    "CreditScore": 565
+  },
+  {
+    "CustomerID": 97925,
+    "Gender": "M",
+    "City": "New York",
+    "Age": 70,
+    "MonthlySalary": 10841.38622251855,
+    "CreditScore": 526
+  },
+  {
+    "CustomerID": 83434,
+    "Gender": "F",
+    "City": "London",
+    "Age": 72,
+    "MonthlySalary": 9001.505791864241,
+    "CreditScore": 509
+  },
+  {
+    "CustomerID": 80710,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 55,
+    "MonthlySalary": 4231.274945903393,
+    "CreditScore": 611
+  },
+  {
+    "CustomerID": 74275,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 51,
+    "MonthlySalary": 8703.11905017229,
+    "CreditScore": 581
+  },
+  {
+    "CustomerID": 65532,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 51,
+    "MonthlySalary": 7773.563499574318,
+    "CreditScore": 683
+  },
+  {
+    "CustomerID": 81640,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 63,
+    "MonthlySalary": 5672.610079774081,
+    "CreditScore": 662
+  },
+  {
+    "CustomerID": 36664,
+    "Gender": "M",
+    "City": "London",
+    "Age": 66,
+    "MonthlySalary": 8967.273548837698,
+    "CreditScore": 597
+  },
+  {
+    "CustomerID": 98426,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 27,
+    "MonthlySalary": 3986.000666292997,
+    "CreditScore": 521
+  },
+  {
+    "CustomerID": 25539,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 66,
+    "MonthlySalary": 7549.193347482298,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 30104,
+    "Gender": "M",
+    "City": "London",
+    "Age": 63,
+    "MonthlySalary": 4831.252762683318,
+    "CreditScore": 620
+  },
+  {
+    "CustomerID": 20255,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 70,
+    "MonthlySalary": 5816.036545911827,
+    "CreditScore": 798
+  },
+  {
+    "CustomerID": 48725,
+    "Gender": "M",
+    "City": "London",
+    "Age": 23,
+    "MonthlySalary": 3216.1349649504,
+    "CreditScore": 840
+  },
+  {
+    "CustomerID": 90011,
+    "Gender": "O",
+    "City": "London",
+    "Age": 64,
+    "MonthlySalary": 14187.53122640672,
+    "CreditScore": 674
+  },
+  {
+    "CustomerID": 46128,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 65,
+    "MonthlySalary": 4141.81379377144,
+    "CreditScore": 611
+  },
+  {
+    "CustomerID": 49807,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 70,
+    "MonthlySalary": 4103.714987620709,
+    "CreditScore": 751
+  },
+  {
+    "CustomerID": 19818,
+    "Gender": "M",
+    "City": "London",
+    "Age": 65,
+    "MonthlySalary": 11965.7699819794,
+    "CreditScore": 585
+  },
+  {
+    "CustomerID": 15617,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 48,
+    "MonthlySalary": 8103.838131865985,
+    "CreditScore": 795
+  },
+  {
+    "CustomerID": 97378,
+    "Gender": "F",
+    "City": "London",
+    "Age": 72,
+    "MonthlySalary": 8003.712518426191,
+    "CreditScore": 597
+  },
+  {
+    "CustomerID": 93267,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 66,
+    "MonthlySalary": 14691.077625924612,
+    "CreditScore": 755
+  },
+  {
+    "CustomerID": 52364,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 72,
+    "MonthlySalary": 4084.8084108502007,
+    "CreditScore": 577
+  },
+  {
+    "CustomerID": 23807,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 29,
+    "MonthlySalary": 5956.335687983952,
+    "CreditScore": 578
+  },
+  {
+    "CustomerID": 10407,
+    "Gender": "O",
+    "City": "London",
+    "Age": 27,
+    "MonthlySalary": 4015.0790329841375,
+    "CreditScore": 601
+  },
+  {
+    "CustomerID": 32181,
+    "Gender": "F",
+    "City": "London",
+    "Age": 51,
+    "MonthlySalary": 5829.062962240838,
+    "CreditScore": 724
+  },
+  {
+    "CustomerID": 43935,
+    "Gender": "O",
+    "City": "New York",
+    "Age": 25,
+    "MonthlySalary": 4348.425928303635,
+    "CreditScore": 567
+  },
+  {
+    "CustomerID": 12688,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 42,
+    "MonthlySalary": 5486.469462353451,
+    "CreditScore": 584
+  },
+  {
+    "CustomerID": 89712,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 26,
+    "MonthlySalary": 14991.71365847081,
+    "CreditScore": 609
+  },
+  {
+    "CustomerID": 82338,
+    "Gender": "F",
+    "City": "Paris",
+    "Age": 28,
+    "MonthlySalary": 14796.129470526192,
+    "CreditScore": 784
+  },
+  {
+    "CustomerID": 74108,
+    "Gender": "M",
+    "City": "London",
+    "Age": 61,
+    "MonthlySalary": 14408.74152120126,
+    "CreditScore": 648
+  },
+  {
+    "CustomerID": 98411,
+    "Gender": "F",
+    "City": "London",
+    "Age": 27,
+    "MonthlySalary": 10044.801261479715,
+    "CreditScore": 816
+  },
+  {
+    "CustomerID": 13969,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 41,
+    "MonthlySalary": 13625.889516173822,
+    "CreditScore": 801
+  },
+  {
+    "CustomerID": 38100,
+    "Gender": "O",
+    "City": "London",
+    "Age": 61,
+    "MonthlySalary": 3896.234729358076,
+    "CreditScore": 654
+  },
+  {
+    "CustomerID": 14683,
+    "Gender": "M",
+    "City": "London",
+    "Age": 54,
+    "MonthlySalary": 5948.489867343847,
+    "CreditScore": 688
+  },
+  {
+    "CustomerID": 70416,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 13709.417270808815,
+    "CreditScore": 631
+  },
+  {
+    "CustomerID": 95702,
+    "Gender": "M",
+    "City": "Tokyo",
+    "Age": 53,
+    "MonthlySalary": 9487.520944871854,
+    "CreditScore": 748
+  },
+  {
+    "CustomerID": 37219,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 21,
+    "MonthlySalary": 3386.998437220868,
+    "CreditScore": 821
+  },
+  {
+    "CustomerID": 58168,
+    "Gender": "O",
+    "City": "Paris",
+    "Age": 57,
+    "MonthlySalary": 6047.288657829053,
+    "CreditScore": 752
+  },
+  {
+    "CustomerID": 89674,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 44,
+    "MonthlySalary": 3783.173986503731,
+    "CreditScore": 654
+  },
+  {
+    "CustomerID": 11521,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 56,
+    "MonthlySalary": 11296.861632577831,
+    "CreditScore": 764
+  },
+  {
+    "CustomerID": 38454,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 28,
+    "MonthlySalary": 13128.975577876789,
+    "CreditScore": 637
+  },
+  {
+    "CustomerID": 57283,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 58,
+    "MonthlySalary": 13098.03406628577,
+    "CreditScore": 582
+  },
+  {
+    "CustomerID": 25744,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 57,
+    "MonthlySalary": 14960.31119138186,
+    "CreditScore": 641
+  },
+  {
+    "CustomerID": 97266,
+    "Gender": "O",
+    "City": "London",
+    "Age": 49,
+    "MonthlySalary": 12832.159010662968,
+    "CreditScore": 558
+  },
+  {
+    "CustomerID": 39956,
+    "Gender": "M",
+    "City": "Berlin",
+    "Age": 54,
+    "MonthlySalary": 10328.536850823964,
+    "CreditScore": 525
+  },
+  {
+    "CustomerID": 29298,
+    "Gender": "F",
+    "City": "Berlin",
+    "Age": 66,
+    "MonthlySalary": 8744.914207857819,
+    "CreditScore": 559
+  },
+  {
+    "CustomerID": 21996,
+    "Gender": "F",
+    "City": "New York",
+    "Age": 70,
+    "MonthlySalary": 6755.104001835802,
+    "CreditScore": 526
+  },
+  {
+    "CustomerID": 88356,
+    "Gender": "M",
+    "City": "Paris",
+    "Age": 42,
+    "MonthlySalary": 4635.425016462928,
+    "CreditScore": 584
+  },
+  {
+    "CustomerID": 49234,
+    "Gender": "O",
+    "City": "London",
+    "Age": 55,
+    "MonthlySalary": 3481.857310279982,
+    "CreditScore": 694
+  },
+  {
+    "CustomerID": 68845,
+    "Gender": "F",
+    "City": "Tokyo",
+    "Age": 63,
+    "MonthlySalary": 9928.970142071528,
+    "CreditScore": 810
+  },
+  {
+    "CustomerID": 25632,
+    "Gender": "M",
+    "City": "London",
+    "Age": 30,
+    "MonthlySalary": 7028.096702653127,
+    "CreditScore": 830
+  },
+  {
+    "CustomerID": 22825,
+    "Gender": "O",
+    "City": "Tokyo",
+    "Age": 39,
+    "MonthlySalary": 13052.416924191695,
+    "CreditScore": 726
+  },
+  {
+    "CustomerID": 42901,
+    "Gender": "O",
+    "City": "Berlin",
+    "Age": 44,
+    "MonthlySalary": 7825.107417281836,
+    "CreditScore": 598
+  },
+  {
+    "CustomerID": 52781,
+    "Gender": "O",
+    "City": "London",
+    "Age": 38,
+    "MonthlySalary": 7748.013702068461,
+    "CreditScore": 794
+  }
+]
